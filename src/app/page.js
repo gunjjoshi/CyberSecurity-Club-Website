@@ -1,95 +1,88 @@
-import Image from 'next/image'
-import styles from './page.module.css'
+import styles from './page.module.css';
+import Head from 'next/head';
+import Script from 'next/script';
+import MediaComponent from './eventComponent';
 
 export default function Home() {
   return (
-    <main className={styles.main}>
-      <div className={styles.description}>
-        <p>
-          Get started by editing&nbsp;
-          <code className={styles.code}>src/app/page.js</code>
-        </p>
-        <div>
-          <a
-            href="https://vercel.com?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            By{' '}
-            <Image
-              src="/vercel.svg"
-              alt="Vercel Logo"
-              className={styles.vercelLogo}
-              width={100}
-              height={24}
-              priority
-            />
-          </a>
+    <>
+      <Head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+      </Head>
+
+      <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM" crossorigin="anonymous" />
+
+      <link href="https://fonts.cdnfonts.com/css/cascadia-code" rel="stylesheet"></link>
+      <style>{`
+          body {
+            font-family: 'Cascadia Code', sans-serif;
+          }
+        `}</style>
+      <div className={styles.bg}>
+        <nav className="navbar navbar-expand-lg bg-body-tertiary fixed-top">
+          <div className="container-fluid">
+            <a className="navbar-brand my-0" href="#">
+              <img src="CSC_Logo_Dark_name (1).svg" alt="Logo" width="70" height="70" className={`d-inline-block align-text-top ${styles.glogo}`} />
+            </a>
+            <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+              <span className="navbar-toggler-icon"></span>
+            </button>
+            <div className="collapse navbar-collapse" id="navbarSupportedContent">
+              <ul className="navbar-nav me-auto mb-2 mb-lg-0">
+                <li className="nav-item">
+                  <a className="nav-link active fs-4 mx-4" aria-current="page" href="#">Home</a>
+                </li>
+                <li className="nav-item">
+                  <a className="nav-link active fs-4 mx-4" href="#">People</a>
+                </li>
+                <li className="nav-item">
+                  <a className="nav-link active fs-4 mx-4" href="#">Events</a>
+                </li>
+                <li className="nav-item">
+                  <a className="nav-link active fs-4 mx-4" href="#">Contact</a>
+                </li>
+              </ul>
+
+              <button type="button" className={`btn btn-success ${styles.customButton}`}>Sign In</button>
+            </div>
+          </div>
+        </nav>
+        <div className={styles.heading} style={{ marginTop: '10px', color: 'rgb(252, 3, 3)' }}>
+
+          <div className={`${styles.radioGroup} d-flex flex-wrap justify-content-center`}>
+            <div className={`${styles.radioItem}`}>
+              <input type="radio" className={`${styles.radioButton}`} name="btnradio" id="btnradio1" autoComplete="off" checked />
+              <label className={`${styles.radioLabel}`} htmlFor="btnradio1">Upcoming</label>
+            </div>
+            <div className={`${styles.radioItem}`}>
+              <input type="radio" className={`${styles.radioButton}`} name="btnradio" id="btnradio3" autoComplete="off" />
+              <label className={`${styles.radioLabel}`} htmlFor="btnradio3">Previous</label>
+            </div>
+          </div>
+
+
+
+
+
+
+
+
         </div>
+
+        <br /><br />
+        <MediaComponent />
+        <br /><br />
+        <MediaComponent />
+        <br /><br />
+        <MediaComponent />
+        <br /><br />
+        <MediaComponent />
+
+
+
+        <Script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-geWF76RCwLtnZ8qwWowPQNguL3RmwHVBC9FhGdlKrxdiJJigb/j/68SIy3Te4Bkz" crossorigin="anonymous" />
       </div>
-
-      <div className={styles.center}>
-        <Image
-          className={styles.logo}
-          src="/next.svg"
-          alt="Next.js Logo"
-          width={180}
-          height={37}
-          priority
-        />
-      </div>
-
-      <div className={styles.grid}>
-        <a
-          href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
-          className={styles.card}
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <h2>
-            Docs <span>-&gt;</span>
-          </h2>
-          <p>Find in-depth information about Next.js features and API.</p>
-        </a>
-
-        <a
-          href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
-          className={styles.card}
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <h2>
-            Learn <span>-&gt;</span>
-          </h2>
-          <p>Learn about Next.js in an interactive course with&nbsp;quizzes!</p>
-        </a>
-
-        <a
-          href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
-          className={styles.card}
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <h2>
-            Templates <span>-&gt;</span>
-          </h2>
-          <p>Explore the Next.js 13 playground.</p>
-        </a>
-
-        <a
-          href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
-          className={styles.card}
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <h2>
-            Deploy <span>-&gt;</span>
-          </h2>
-          <p>
-            Instantly deploy your Next.js site to a shareable URL with Vercel.
-          </p>
-        </a>
-      </div>
-    </main>
-  )
+    </>
+  );
 }
