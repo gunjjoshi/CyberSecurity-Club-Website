@@ -62,6 +62,9 @@ If you would like to contribute to the project, please follow these steps:
 
 5. Open a pull request on the GitHub repository to submit your changes.
 
+## Website Design 
+https://www.figma.com/file/QGAiZmO0WCTxPMIUrxj9Fo/CSY-Club-Design?type=design&node-id=0%3A1&t=5W7cSXD3wlnqat5C-1
+
 ## Feedback and Issues
 
 If you encounter any issues or have any feedback regarding the website or the repository, please open an issue on the GitHub repository. We appreciate your contribution in improving our website.
