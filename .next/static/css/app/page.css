@@ -1,0 +1,120 @@
+/*!*****************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[2].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[2].oneOf[7].use[3]!./src/app/page.module.css ***!
+  \*****************************************************************************************************************************************************************************************************************************************************************/
+.page_bg__KNWjs {
+    background-image: url("/background.png");
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center bottom;
+  }
+  .page_eventclass__uHZuZ{
+    padding: 15px;
+    margin-left: 80px;
+    margin-bottom: 20px;
+    /* border: 2px dashed #3ACD6B; */
+    background-image: repeating-linear-gradient(-40deg, #3acc6b, #3acc6b 24px, transparent 30px, transparent 46.8px, #3acc6b 51px), repeating-linear-gradient(50deg, #3acc6b, #3acc6b 24px, transparent 30px, transparent 46.8px, #3acc6b 51px), repeating-linear-gradient(140deg, #3acc6b, #3acc6b 24px, transparent 30px, transparent 46.8px, #3acc6b 51px), repeating-linear-gradient(230deg, #3acc6b, #3acc6b 24px, transparent 30px, transparent 46.8px, #3acc6b 51px);
+background-size: 4px calc(100% + 66.58px), calc(100% + 66.58px) 4px, 4px calc(100% + 66.58px) , calc(100% + 66.58px) 4px;
+background-position: 0 0, 0 0, 100% 0, 0 100%;
+background-repeat: no-repeat;
+animation: page_borderAnimation__pwpTn 2.5s infinite linear;
+  }
+  @keyframes page_borderAnimation__pwpTn {
+    from { background-position: 0 0, -66.58px 0, 100% -66.58px, 0 100%; }
+    to { background-position: 0 -66.58px, 0 0, 100% 0, -66.58px 100%; }
+    }
+  .page_customButton__Ec2_p {
+    margin-right: 1rem;
+    background-color: #3ACD6B !important;
+    border-color: #3ACD6B !important;
+    color: black !important;
+  }
+  .page_whitetext__p7a7h{
+    color: white !important;
+
+  }
+  .page_navbar__x1ZbP{
+    height: 50px !important;
+  }
+  .page_radioGroup__hIIOC {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    
+  }
+  
+  .page_radioItem__PD8mV {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: red !important;
+  }
+  .page_radioButton__CS18T {
+    position: absolute;
+    opacity: 0;
+    z-index: -1;
+  }
+  
+  .page_radioLabel__jFEVy {
+    display: inline-block;
+    cursor: pointer;
+    padding: 10px 20px;
+    border: 2px solid #3ACD6B;
+    border-radius: 4px;
+    color: #3ACD6B;
+  }
+  
+  .page_radioButton__CS18T:checked + .page_radioLabel__jFEVy {
+    background-color: #3ACD6B;
+    color: white;
+  }
+  
+  .page_heading__X0e6w {
+    padding-top: 8rem;
+    color: rgb(252, 3, 3);
+  }
+  
+  @media (max-width: 768px) {
+    .page_heading__X0e6w {
+      padding-top: 9rem;
+    }
+  }
+  
+  .page_glogo__Vt9fH {
+    position: relative;
+    left: 60px;
+    width: 80px;
+    height: 80px;
+    margin-right: 250px;
+  }
+
+.page_navdiv__MLj0e{
+    width: 1920px;
+    height: 95px;
+    background-color: white;
+}
+.page_navlogo__slQeR{
+    height: 95px;
+    width: 95px;
+    position: relative;
+    left: 50px;
+}
+.page_navelements__6mvEZ{
+    display: flex;
+    /* border: 2px solid red; */
+    width: 850px;
+    position: relative;
+    top: -30px;
+    color: black;
+    left: 150px;
+    font-family: 'Cascadia Code', sans-serif;
+    font-size: larger;
+}
+.page_gfont__6jUNL{
+    
+    font-size: larger;
+}
+.page_btn-group__FHNw4 {
+    margin-right: 0.5rem;
+  }
