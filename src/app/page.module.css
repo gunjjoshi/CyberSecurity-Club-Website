@@ -7,13 +7,8 @@
     background-size: cover;
     background-position: center bottom;
   }
-  /* page.module.css */
-
-.navLink {
-  text-decoration: none !important;
-}
-
-.eventclass{
+/* till here */
+ .eventclass{
     padding: 15px;
     margin-left: 80px;
     margin-bottom: 20px;
