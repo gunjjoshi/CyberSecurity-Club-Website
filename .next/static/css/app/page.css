@@ -1,6 +1,7 @@
 /*!*****************************************************************************************************************************************************************************************************************************************************************!*\
   !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[2].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[2].oneOf[7].use[3]!./src/app/page.module.css ***!
   \*****************************************************************************************************************************************************************************************************************************************************************/
+/* background   */
 .page_bg__KNWjs {
     background-image: url("/background.png");
     width: 100%;
@@ -9,7 +10,8 @@
     background-size: cover;
     background-position: center bottom;
   }
-  .page_eventclass__uHZuZ{
+
+.page_eventclass__uHZuZ{
     padding: 15px;
     margin-left: 80px;
     margin-bottom: 20px;

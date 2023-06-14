@@ -7,6 +7,11 @@
     background-size: cover;
     background-position: center bottom;
   }
+  /* page.module.css */
+
+.navLink {
+  text-decoration: none !important;
+}
 
 .eventclass{
     padding: 15px;
