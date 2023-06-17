@@ -24,6 +24,27 @@
       "static/chunks/webpack.js",
       "static/chunks/main.js",
       "static/chunks/pages/_error.js"
+    ],
+<<<<<<< HEAD
+    "/contact": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/contact.js"
+    ],
+    "/events": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/events.js"
+    ],
+    "/people": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+=======
+    "/people": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+>>>>>>> 0874049dd9b10e8774ce0d0ccaa81b71acfecaef
+      "static/chunks/pages/people.js"
     ]
   },
   "ampFirstPages": []

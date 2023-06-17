@@ -7,10 +7,17 @@
     background-size: cover;
     background-position: center bottom;
   }
+  @font-face {
+    font-family: 'CustomFont';
+    src: url('/Cascadia.ttf') format('truetype');
+    /* Add more font formats if necessary */
+    /* Specify different paths based on your project structure */
+  }
+  
 /* till here */
  .eventclass{
     padding: 15px;
-    margin-left: 80px;
+    margin-left: 20px;
     margin-bottom: 20px;
     /* border: 2px dashed #3ACD6B; */
     background-image: repeating-linear-gradient(-40deg, #3acc6b, #3acc6b 24px, transparent 30px, transparent 46.8px, #3acc6b 51px), repeating-linear-gradient(50deg, #3acc6b, #3acc6b 24px, transparent 30px, transparent 46.8px, #3acc6b 51px), repeating-linear-gradient(140deg, #3acc6b, #3acc6b 24px, transparent 30px, transparent 46.8px, #3acc6b 51px), repeating-linear-gradient(230deg, #3acc6b, #3acc6b 24px, transparent 30px, transparent 46.8px, #3acc6b 51px);
@@ -42,7 +49,7 @@ animation: borderAnimation 2.5s infinite linear;
     gap: 30px;
     
   }
-  
+
   .radioItem {
     display: flex;
     flex-direction: column;
@@ -74,18 +81,60 @@ animation: borderAnimation 2.5s infinite linear;
     color: rgb(252, 3, 3);
   }
   
-  @media (max-width: 768px) {
-    .heading {
-      padding-top: 9rem;
-    }
+  .logo {
+    margin-right: auto;
+    margin-left: 0;
+  }
+  .custom-background {
+    background-image: url('/background.png');
   }
   
+  @media (max-width: 767px) {
+    .navbar-toggler {
+      order: 1;
+    }
+    .custom-background {
+      background-image: url('/backgroundPhone.png');
+    }
+    .logo {
+      order: 2;
+      margin-right: 0;
+    }
+    
+    .navbar-collapse {
+      order: 3;
+    }
+  }
+
   .glogo {
-    position: relative;
-    left: 60px;
+<<<<<<< HEAD
     width: 80px;
     height: 80px;
+=======
+    position: relative;
+    left: 60px;
+    width: 100px;
+    height: 100px;
+>>>>>>> 0874049dd9b10e8774ce0d0ccaa81b71acfecaef
     margin-right: 250px;
+  }
+  .navbar-brand {
+    display: flex;
+    align-items: center;
+    flex-grow: 1;
+  }
+  .navbar-toggler {
+    border: none;
+    background-color: transparent;
+  }
+  
+  .navbar-toggler-icon {
+    background-image: url('/CSC_Logo_Dark_name (1).svg');
+    width: 30px; /* Adjust the width as needed */
+    height: 30px; /* Adjust the height as needed */
+    background-size: cover;
+    background-repeat: no-repeat;
+    cursor: pointer;
   }
 
 .navdiv{
@@ -117,3 +166,153 @@ animation: borderAnimation 2.5s infinite linear;
 .btn-group {
     margin-right: 0.5rem;
   }
+
+<<<<<<< HEAD
+
+  @media (max-width: 768px) {
+    .glogo {
+      order: -1;
+    }
+    .navbar {
+      justify-content: space-between;
+    }
+    .collapse.navbar-collapse {
+      display: flex !important;
+      flex-direction: column;
+      justify-content: flex-end;
+      align-items: flex-end;
+      gap: 1rem;
+      width: 100%;
+    }
+  
+    .navbar-nav {
+      width: 100%;
+      justify-content: center;
+    }
+  
+    .btn-group {
+      margin-right: auto;
+    margin-left: auto;
+      margin-top: 1rem;
+    }
+  }
+
+  .container-fluid {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .footer {
+    background-color: rgba(0, 0, 0, 0.8);
+    color: white;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start; /* Update alignment to flex-start */
+    min-height: 210px;
+    position: relative;
+  }
+  
+  .contact {
+    width: 20%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  
+  .title {
+    color: white;
+    font-size: 25px;
+    margin-bottom: 10px;
+  }
+  
+  .icon {
+    color: white;
+    margin-right: 5px;
+    font-size: 24px;
+  }
+  
+  .heart {
+    color: red;
+    font-size: 27px;
+    width: 20px;
+  }
+  
+  .contactInfo p {
+    color: white;
+    margin-bottom: 5px;
+  }
+  
+  .social {
+    width: 20%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+  }
+  
+  .socialIcons {
+    display: flex;
+    gap: 10px;
+  }
+  
+  .madeWithLove {
+    position: absolute;
+    bottom: 10px;
+    left: 50%;
+    transform: translateX(-50%);
+    font-size: 14px;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.3);
+    padding: 10px;
+  }
+  
+  @media (max-width: 768px) {
+    .footer {
+      flex-direction: column;
+      justify-content: flex-start;
+      align-items: center;
+      text-align: center;
+      min-height: 300px; /* Adjust the height to accommodate the stacked elements */
+    }
+  
+    .contact,
+    .social {
+      width: 100%;
+      margin-bottom: 20px;
+    }
+  
+    .social {
+      order: -1; /* Bring the social media section above the contact section */
+    }
+  }
+  
+  
+  
+  
+  
+  
+=======
+/* /* just icons css */
+.social-icons-container {
+  display: flex;
+  justify-content: space-around;
+  margin: 10px; /* Add margin to create space around the container */
+}
+
+.social-icon {
+  padding: 15px;
+    margin-left: 80px;
+    margin-bottom: 20px;
+  margin: 0 5px; /* Add margin to create space around each icon */
+  font-size: 20px;
+  color: white !important;
+}
+
+.social-name {
+  font-size: 14px;
+}
+>>>>>>> 0874049dd9b10e8774ce0d0ccaa81b71acfecaef
+
+  
+  
