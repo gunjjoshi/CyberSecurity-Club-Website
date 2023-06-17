@@ -19,14 +19,8 @@
     "next": "^13.4.5",
     "react": "^18.2.0",
     "react-bootstrap": "^2.7.4",
-<<<<<<< HEAD
-    "react-dom": "^18.2.0",
-    "react-icons": "^4.9.0",
-    "react-router-dom": "^6.13.0"
-=======
     "react-dom": "18.2.0",
     "react-dom": "^18.2.0",
     "react-icons": "^4.9.0"
->>>>>>> a35dbac13cf02cd712a0db37e1c4e97a7a9c240a
   }
 }
