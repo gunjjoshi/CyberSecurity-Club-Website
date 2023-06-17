@@ -17,7 +17,7 @@
 /* till here */
  .eventclass{
     padding: 15px;
-    margin-left: 80px;
+    margin-left: 20px;
     margin-bottom: 20px;
     /* border: 2px dashed #3ACD6B; */
     background-image: repeating-linear-gradient(-40deg, #3acc6b, #3acc6b 24px, transparent 30px, transparent 46.8px, #3acc6b 51px), repeating-linear-gradient(50deg, #3acc6b, #3acc6b 24px, transparent 30px, transparent 46.8px, #3acc6b 51px), repeating-linear-gradient(140deg, #3acc6b, #3acc6b 24px, transparent 30px, transparent 46.8px, #3acc6b 51px), repeating-linear-gradient(230deg, #3acc6b, #3acc6b 24px, transparent 30px, transparent 46.8px, #3acc6b 51px);
@@ -107,8 +107,15 @@ animation: borderAnimation 2.5s infinite linear;
   }
 
   .glogo {
+<<<<<<< HEAD
     width: 80px;
     height: 80px;
+=======
+    position: relative;
+    left: 60px;
+    width: 100px;
+    height: 100px;
+>>>>>>> 0874049dd9b10e8774ce0d0ccaa81b71acfecaef
     margin-right: 250px;
   }
   .navbar-brand {
@@ -160,6 +167,7 @@ animation: borderAnimation 2.5s infinite linear;
     margin-right: 0.5rem;
   }
 
+<<<<<<< HEAD
 
   @media (max-width: 768px) {
     .glogo {
@@ -284,6 +292,27 @@ animation: borderAnimation 2.5s infinite linear;
   
   
   
+=======
+/* /* just icons css */
+.social-icons-container {
+  display: flex;
+  justify-content: space-around;
+  margin: 10px; /* Add margin to create space around the container */
+}
+
+.social-icon {
+  padding: 15px;
+    margin-left: 80px;
+    margin-bottom: 20px;
+  margin: 0 5px; /* Add margin to create space around each icon */
+  font-size: 20px;
+  color: white !important;
+}
+
+.social-name {
+  font-size: 14px;
+}
+>>>>>>> 0874049dd9b10e8774ce0d0ccaa81b71acfecaef
 
   
   

@@ -1,4 +1,4 @@
-// File: C:\Users\Admin\Desktop\csy-website-gunj\src\app\page.js
+// File: D:\CSYCLUB\website\new\CyberSecurity-Club-Website\src\app\page.js
 import * as entry from '../../../src/app/page.js'
 import type { ResolvingMetadata } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
