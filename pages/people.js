@@ -5,7 +5,7 @@ import Script from "next/script";
 import MediaComponent from "@/app/components/MediaComponent";
 import TextComponent from "@/app/components/TextComponent";
 import ImageComponent from "@/app/components/ImageComponent";
- 
+import Footer from "@/app/components/footer";
 
 
 
@@ -206,7 +206,7 @@ const people = () => {
 
 
 
-        
+        <Footer />
 
         <Script
           src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"
