@@ -1,0 +1,290 @@
+/*!*****************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[2].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[2].oneOf[7].use[3]!./src/app/page.module.css ***!
+  \*****************************************************************************************************************************************************************************************************************************************************************/
+/* background   */
+.page_bg__KNWjs {
+    background-color: black;
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center bottom;
+  }
+  @font-face {
+    font-family: 'CustomFont';
+    src: url('/Cascadia.ttf') format('truetype');
+    /* Add more font formats if necessary */
+    /* Specify different paths based on your project structure */
+  }
+  
+/* till here */
+ .page_eventclass__uHZuZ{
+    padding: 15px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    /* border: 2px dashed #3ACD6B; */
+    background-image: repeating-linear-gradient(-40deg, #3acc6b, #3acc6b 24px, transparent 30px, transparent 46.8px, #3acc6b 51px), repeating-linear-gradient(50deg, #3acc6b, #3acc6b 24px, transparent 30px, transparent 46.8px, #3acc6b 51px), repeating-linear-gradient(140deg, #3acc6b, #3acc6b 24px, transparent 30px, transparent 46.8px, #3acc6b 51px), repeating-linear-gradient(230deg, #3acc6b, #3acc6b 24px, transparent 30px, transparent 46.8px, #3acc6b 51px);
+background-size: 4px calc(100% + 66.58px), calc(100% + 66.58px) 4px, 4px calc(100% + 66.58px) , calc(100% + 66.58px) 4px;
+background-position: 0 0, 0 0, 100% 0, 0 100%;
+background-repeat: no-repeat;
+animation: page_borderAnimation__pwpTn 2.5s infinite linear;
+  }
+  @keyframes page_borderAnimation__pwpTn {
+    from { background-position: 0 0, -66.58px 0, 100% -66.58px, 0 100%; }
+    to { background-position: 0 -66.58px, 0 0, 100% 0, -66.58px 100%; }
+    }
+  .page_customButton__Ec2_p {
+    margin-right: 1rem;
+    background-color: #3ACD6B !important;
+    border-color: #3ACD6B !important;
+    color: black !important;
+  }
+  .page_whitetext__p7a7h{
+    color: white !important;
+
+  }
+  .page_navbar__x1ZbP{
+    height: 50px !important;
+  }
+  .page_radioGroup__hIIOC {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    
+  }
+
+  .page_radioItem__PD8mV {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: red !important;
+  }
+  .page_radioButton__CS18T {
+    position: absolute;
+    opacity: 0;
+    z-index: -1;
+  }
+  
+  .page_radioLabel__jFEVy {
+    display: inline-block;
+    cursor: pointer;
+    padding: 10px 20px;
+    border: 2px solid #3ACD6B;
+    border-radius: 4px;
+    color: #3ACD6B;
+  }
+  
+  .page_radioButton__CS18T:checked + .page_radioLabel__jFEVy {
+    background-color: #3ACD6B;
+    color: white;
+  }
+  
+  .page_heading__X0e6w {
+    padding-top: 8rem;
+    color: rgb(252, 3, 3);
+  }
+  
+  .page_logo__M5piD {
+    margin-right: auto;
+    margin-left: 0;
+  }
+  
+  @media (max-width: 767px) {
+    .page_navbar-toggler__1iM_m {
+      order: 1;
+    }
+    .page_logo__M5piD {
+      order: 2;
+      margin-right: 0;
+    }
+    
+    .page_navbar-collapse__B8dFD {
+      order: 3;
+    }
+  }
+
+  .page_glogo__Vt9fH {
+    width: 80px;
+    height: 80px;
+    position: relative;
+    left: 60px;
+    width: 100px;
+    height: 100px;
+    margin-right: 250px;
+  }
+  .page_navbar-brand__5QCmJ {
+    display: flex;
+    align-items: center;
+    flex-grow: 1;
+  }
+  .page_navbar-toggler__1iM_m {
+    border: none;
+    background-color: transparent;
+  }
+  
+  .page_navbar-toggler-icon__Nh7Xg {
+    background-image: url('/CSC_Logo_Dark_name (1).svg');
+    width: 30px; /* Adjust the width as needed */
+    height: 30px; /* Adjust the height as needed */
+    background-size: cover;
+    background-repeat: no-repeat;
+    cursor: pointer;
+  }
+
+.page_navdiv__MLj0e{
+    width: 1920px;
+    height: 95px;
+    background-color: white;
+}
+.page_navlogo__slQeR{
+    height: 95px;
+    width: 95px;
+    position: relative;
+    left: 50px;
+}
+.page_navelements__6mvEZ{
+    display: flex;
+    /* border: 2px solid red; */
+    width: 850px;
+    position: relative;
+    top: -30px;
+    color: black;
+    left: 150px;
+    font-family: 'Cascadia Code', sans-serif;
+    font-size: larger;
+}
+.page_gfont__6jUNL{
+    
+    font-size: larger;
+}
+.page_btn-group__FHNw4 {
+    margin-right: 0.5rem;
+  }
+
+
+  @media (max-width: 768px) {
+    .page_glogo__Vt9fH {
+      order: -1;
+    }
+    .page_navbar__x1ZbP {
+      justify-content: space-between;
+    }
+    .page_collapse__nKGvL.page_navbar-collapse__B8dFD {
+      display: flex !important;
+      flex-direction: column;
+      justify-content: flex-end;
+      align-items: flex-end;
+      gap: 1rem;
+      width: 100%;
+    }
+  
+    .page_navbar-nav__B4TcC {
+      width: 100%;
+      justify-content: center;
+    }
+  
+    .page_btn-group__FHNw4 {
+      margin-right: auto;
+    margin-left: auto;
+      margin-top: 1rem;
+    }
+  }
+
+  .page_container-fluid__Y3q7E {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .page_footer__lVP8S {
+    background-color: rgba(0, 0, 0, 0.8);
+    color: white;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start; /* Update alignment to flex-start */
+    min-height: 210px;
+    position: relative;
+  }
+  
+  .page_contact__WxX4r {
+    width: 20%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  
+  .page_title__yhPp_ {
+    color: white;
+    font-size: 25px;
+    margin-bottom: 10px;
+  }
+  
+  .page_icon__NhlQl {
+    color: white;
+    margin-right: 5px;
+    font-size: 24px;
+  }
+  
+  .page_heart__UQKRO {
+    color: red;
+    font-size: 27px;
+    width: 20px;
+  }
+  
+  .page_contactInfo__QIDVj p {
+    color: white;
+    margin-bottom: 5px;
+  }
+  
+  .page_social__qyhDQ {
+    width: 20%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+  }
+  
+  .page_socialIcons__NPw5q {
+    display: flex;
+    gap: 10px;
+  }
+  
+  .page_madeWithLove__PHo4T {
+    position: absolute;
+    bottom: 10px;
+    left: 50%;
+    transform: translateX(-50%);
+    font-size: 14px;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.3);
+    padding: 10px;
+  }
+  
+  @media (max-width: 768px) {
+    .page_footer__lVP8S {
+      flex-direction: column;
+      justify-content: flex-start;
+      align-items: center;
+      text-align: center;
+      min-height: 300px; /* Adjust the height to accommodate the stacked elements */
+    }
+  
+    .page_contact__WxX4r,
+    .page_social__qyhDQ {
+      width: 100%;
+      margin-bottom: 20px;
+    }
+  
+    .page_social__qyhDQ {
+      order: -1; /* Bring the social media section above the contact section */
+    }
+  }
+  
+  
+  
+  
+  
+  
+
+  
+  

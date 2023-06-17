@@ -1,19 +1,18 @@
 {
-<<<<<<< HEAD
-  "cssImports": {},
-  "cssModules": {}
-=======
   "cssImports": {
-    "D:\\CSYCLUB\\website\\new\\CyberSecurity-Club-Website\\src\\app\\layout.js": [
-      "D:\\CSYCLUB\\website\\new\\CyberSecurity-Club-Website\\node_modules\\next\\font\\google\\target.css?{\"path\":\"src\\\\app\\\\layout.js\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}",
-      "D:\\CSYCLUB\\website\\new\\CyberSecurity-Club-Website\\src\\app\\globals.css"
+    "D:\\SG Documents\\IIIT Kottayam\\CSY Club\\repos\\CyberSecurity-Club-Website\\src\\app\\layout.js": [
+      "D:\\SG Documents\\IIIT Kottayam\\CSY Club\\repos\\CyberSecurity-Club-Website\\node_modules\\next\\font\\google\\target.css?{\"path\":\"src\\\\app\\\\layout.js\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}",
+      "D:\\SG Documents\\IIIT Kottayam\\CSY Club\\repos\\CyberSecurity-Club-Website\\src\\app\\globals.css"
+    ],
+    "D:\\SG Documents\\IIIT Kottayam\\CSY Club\\repos\\CyberSecurity-Club-Website\\src\\app\\page.js": [
+      "D:\\SG Documents\\IIIT Kottayam\\CSY Club\\repos\\CyberSecurity-Club-Website\\src\\app\\page.module.css"
     ]
   },
   "cssModules": {
-    "D:\\CSYCLUB\\website\\new\\CyberSecurity-Club-Website\\src\\app\\page": [
-      "D:\\CSYCLUB\\website\\new\\CyberSecurity-Club-Website\\src\\app\\globals.css",
-      "D:\\CSYCLUB\\website\\new\\CyberSecurity-Club-Website\\node_modules\\next\\font\\google\\target.css?{\"path\":\"src\\\\app\\\\layout.js\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}"
+    "D:\\SG Documents\\IIIT Kottayam\\CSY Club\\repos\\CyberSecurity-Club-Website\\src\\app\\page": [
+      "D:\\SG Documents\\IIIT Kottayam\\CSY Club\\repos\\CyberSecurity-Club-Website\\src\\app\\page.module.css",
+      "D:\\SG Documents\\IIIT Kottayam\\CSY Club\\repos\\CyberSecurity-Club-Website\\src\\app\\globals.css",
+      "D:\\SG Documents\\IIIT Kottayam\\CSY Club\\repos\\CyberSecurity-Club-Website\\node_modules\\next\\font\\google\\target.css?{\"path\":\"src\\\\app\\\\layout.js\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}"
     ]
   }
->>>>>>> a35dbac13cf02cd712a0db37e1c4e97a7a9c240a
 }

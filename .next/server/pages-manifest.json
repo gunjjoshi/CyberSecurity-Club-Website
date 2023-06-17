@@ -2,10 +2,5 @@
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
-<<<<<<< HEAD
-  "/people": "pages/people.js"
-=======
-  "/people": "pages/people.js",
   "/events": "pages/events.js"
->>>>>>> a35dbac13cf02cd712a0db37e1c4e97a7a9c240a
 }

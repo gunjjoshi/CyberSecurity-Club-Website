@@ -101,11 +101,8 @@ animation: borderAnimation 2.5s infinite linear;
   }
 
   .glogo {
-<<<<<<< HEAD
-=======
     width: 80px;
     height: 80px;
->>>>>>> a35dbac13cf02cd712a0db37e1c4e97a7a9c240a
     position: relative;
     left: 60px;
     width: 100px;
@@ -161,27 +158,6 @@ animation: borderAnimation 2.5s infinite linear;
     margin-right: 0.5rem;
   }
 
-<<<<<<< HEAD
-/* /* just icons css */
-.social-icons-container {
-  display: flex;
-  justify-content: space-around;
-  margin: 10px; /* Add margin to create space around the container */
-}
-
-.social-icon {
-  padding: 15px;
-    margin-left: 80px;
-    margin-bottom: 20px;
-  margin: 0 5px; /* Add margin to create space around each icon */
-  font-size: 20px;
-  color: white !important;
-}
-
-.social-name {
-  font-size: 14px;
-}
-=======
 
   @media (max-width: 768px) {
     .glogo {
@@ -306,7 +282,6 @@ animation: borderAnimation 2.5s infinite linear;
   
   
   
->>>>>>> a35dbac13cf02cd712a0db37e1c4e97a7a9c240a
 
   
   

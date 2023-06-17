@@ -5,12 +5,9 @@ import Script from "next/script";
 import MediaComponent from "@/app/components/MediaComponent";
 import TextComponent from "@/app/components/TextComponent";
 import ImageComponent from "@/app/components/ImageComponent";
-<<<<<<< HEAD
 import { Link } from 'react-router-dom';
 import Navbar from "@/app/components/navbar";
-=======
 import Footer from "@/app/components/footer";
->>>>>>> a35dbac13cf02cd712a0db37e1c4e97a7a9c240a
 
 
 
