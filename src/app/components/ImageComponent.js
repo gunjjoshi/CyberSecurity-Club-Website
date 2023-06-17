@@ -15,7 +15,7 @@ import Image from "next/image";
 const ImageComponent = ({
   imageSrc1,
   name1,
-  links,
+
   imageSrc2,
   name2,
   imageSrc3,
@@ -58,9 +58,9 @@ const ImageComponent = ({
                 />
               </div>
               <div style={{ margin: "0 5px" }}>
-                <Link to="https://github.com/your-github-profile">
+                
                 <FontAwesomeIcon icon={faGithub} style={{ fontSize: "20px" }} />
-                </Link>
+             
               </div>
               <div style={{ margin: "0 5px" }}>
                 <FontAwesomeIcon icon={faInstagram} style={{ fontSize: "20px" }} />

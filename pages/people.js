@@ -5,7 +5,7 @@ import Script from "next/script";
 import MediaComponent from "@/app/components/MediaComponent";
 import TextComponent from "@/app/components/TextComponent";
 import ImageComponent from "@/app/components/ImageComponent";
-import { Link } from 'react-router-dom';
+ 
 
 
 
