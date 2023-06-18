@@ -1,6 +1,6 @@
 /* background   */
 .bg {
-    background-image: url("/background.png");
+    background-color: black;
     width: 100%;
     height: 100%;
     background-repeat: no-repeat;
@@ -85,16 +85,10 @@ animation: borderAnimation 2.5s infinite linear;
     margin-right: auto;
     margin-left: 0;
   }
-  .custom-background {
-    background-image: url('/background.png');
-  }
   
   @media (max-width: 767px) {
     .navbar-toggler {
       order: 1;
-    }
-    .custom-background {
-      background-image: url('/backgroundPhone.png');
     }
     .logo {
       order: 2;

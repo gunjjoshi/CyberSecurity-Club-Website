@@ -1,5 +1,5 @@
 "use client"
-import styles from '../page.module.css';
+import styles from '@/app/page.module.css';
 import { Container, Row, Col, Button } from 'react-bootstrap';
 import Image from 'next/image';
 

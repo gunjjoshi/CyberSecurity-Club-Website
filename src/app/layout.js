@@ -17,10 +17,8 @@ export default function RootLayout({ children }) {
           <div className="ellipse" id="ellipse2"></div>
         </section>
         <section>
-          
           <section className={inter.className}>{children}
             <div className="container">
-              
             </div>
           </section>
         </section>

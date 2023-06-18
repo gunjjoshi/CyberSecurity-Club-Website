@@ -5,6 +5,8 @@ import Script from "next/script";
 import MediaComponent from "@/app/components/MediaComponent";
 import TextComponent from "@/app/components/TextComponent";
 import ImageComponent from "@/app/components/ImageComponent";
+import { Link } from 'react-router-dom';
+import Navbar from "@/app/components/navbar";
 import Footer from "@/app/components/footer";
 
 
@@ -39,68 +41,7 @@ const people = () => {
         }}
       />
       <div className={styles.bg}>
-        <nav className="navbar navbar-expand-lg bg-body-tertiary fixed-top">
-          <div className="container-fluid">
-            <a className="navbar-brand my-0" href="#">
-              <img
-                src="CSC_Logo_Light_name.svg"
-                alt="Logo"
-                width="70"
-                height="70"
-                className={`d-inline-block align-text-top ${styles.glogo}`}
-              />
-            </a>
-            <button
-              className="navbar-toggler"
-              type="button"
-              data-bs-toggle="collapse"
-              data-bs-target="#navbarSupportedContent"
-              aria-controls="navbarSupportedContent"
-              aria-expanded="false"
-              aria-label="Toggle navigation"
-            >
-              <span className="navbar-toggler-icon"></span>
-            </button>
-            <div
-              className="collapse navbar-collapse"
-              id="navbarSupportedContent"
-            >
-              <ul className="navbar-nav me-auto mb-2 mb-lg-0">
-                <li className="nav-item">
-                  <a
-                    className="nav-link active fs-4 mx-4"
-                    aria-current="page"
-                    href="/"
-                  >
-                    Home
-                  </a>
-                </li>
-                <li className="nav-item">
-                  <a className="nav-link active fs-4 mx-4" href="/people">
-                    People
-                  </a>
-                </li>
-                <li className="nav-item">
-                  <a className="nav-link active fs-4 mx-4" href="/events">
-                    Events
-                  </a>
-                </li>
-                <li className="nav-item">
-                  <a className="nav-link active fs-4 mx-4" href="/contact">
-                    Contact
-                  </a>
-                </li>
-              </ul>
-
-              <button
-                type="button"
-                className={`btn btn-success ${styles.customButton}`}
-              >
-                Sign In
-              </button>
-            </div>
-          </div>
-        </nav>
+        <Navbar />
         <div
           className={styles.heading}
           style={{ marginTop: "10px", color: "rgb(252, 3, 3)" }}

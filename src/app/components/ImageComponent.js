@@ -1,5 +1,5 @@
 "use client";
-import styles from "../page.module.css";
+import styles from "@/app/page.module.css";
 import React from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import {
