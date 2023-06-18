@@ -5,29 +5,8 @@ import Script from "next/script";
 import MediaComponent from "@/app/components/MediaComponent";
 import TextComponent from "@/app/components/TextComponent";
 import ImageComponent from "@/app/components/ImageComponent";
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-import { Link } from 'react-router-dom';
 import Navbar from "@/app/components/navbar";
-import Footer from "@/app/components/footer";
-=======
- 
->>>>>>> parent of a35dbac (foot in people_thanks gunj)
-=======
- 
->>>>>>> parent of a35dbac (foot in people_thanks gunj)
-=======
- 
->>>>>>> parent of a35dbac (foot in people_thanks gunj)
-=======
- 
->>>>>>> parent of a35dbac (foot in people_thanks gunj)
-
-
-
-const people = () => {
+const People = () => {
   return (
     // <div>This is people page</div>
     <div>
@@ -57,7 +36,6 @@ const people = () => {
         }}
       />
       <div className={styles.bg}>
-        <Navbar />
         <div
           className={styles.heading}
           style={{ marginTop: "10px", color: "rgb(252, 3, 3)" }}
@@ -175,4 +153,4 @@ const people = () => {
   );
 };
 
-export default people;
+export default People;

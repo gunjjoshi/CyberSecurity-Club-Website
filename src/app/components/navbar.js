@@ -34,9 +34,9 @@ const Navbar = () => {
                     <div className={`collapse navbar-collapse ${styles.navCollapse}`} id="navbarSupportedContent">
                         <ul className="navbar-nav me-auto mb-2 mb-lg-0">
                             <li className="nav-item">
-                                <a className="nav-link active fs-4 mx-4" aria-current="page" href="/">
+                                <button className="nav-link active fs-4 mx-4" aria-current="page" onClick={() => setActive("Events_Page")}>
                                     Home
-                                </a>
+                                </button>
                             </li>
                             <li className="nav-item">
                                 <a className="nav-link active fs-4 mx-4" href="/people">
