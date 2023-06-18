@@ -1,4 +1,4 @@
-import styles from '../page.module.css';
+import styles from '@/app/page.module.css';
 import Image from 'next/image';
 import { Container, Row, Col, Button } from 'react-bootstrap';
 

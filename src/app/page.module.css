@@ -1,6 +1,6 @@
 /* background   */
 .bg {
-    background-image: url("/background.png");
+    background-color: black;
     width: 100%;
     height: 100%;
     background-repeat: no-repeat;
@@ -17,7 +17,7 @@
 /* till here */
  .eventclass{
     padding: 15px;
-    margin-left: 80px;
+    margin-left: 20px;
     margin-bottom: 20px;
     /* border: 2px dashed #3ACD6B; */
     background-image: repeating-linear-gradient(-40deg, #3acc6b, #3acc6b 24px, transparent 30px, transparent 46.8px, #3acc6b 51px), repeating-linear-gradient(50deg, #3acc6b, #3acc6b 24px, transparent 30px, transparent 46.8px, #3acc6b 51px), repeating-linear-gradient(140deg, #3acc6b, #3acc6b 24px, transparent 30px, transparent 46.8px, #3acc6b 51px), repeating-linear-gradient(230deg, #3acc6b, #3acc6b 24px, transparent 30px, transparent 46.8px, #3acc6b 51px);
@@ -85,16 +85,10 @@ animation: borderAnimation 2.5s infinite linear;
     margin-right: auto;
     margin-left: 0;
   }
-  .custom-background {
-    background-image: url('/background.png');
-  }
   
   @media (max-width: 767px) {
     .navbar-toggler {
       order: 1;
-    }
-    .custom-background {
-      background-image: url('/backgroundPhone.png');
     }
     .logo {
       order: 2;
@@ -109,6 +103,10 @@ animation: borderAnimation 2.5s infinite linear;
   .glogo {
     width: 80px;
     height: 80px;
+    position: relative;
+    left: 60px;
+    width: 100px;
+    height: 100px;
     margin-right: 250px;
   }
   .navbar-brand {
