@@ -317,7 +317,7 @@
   },
   "edgeSSRModuleMapping": {},
   "clientModules": {
-    "D:\\SG Documents\\IIIT Kottayam\\CSY Club\\repos\\CyberSecurity-Club-Website\\node_modules\\next\\dist\\client\\components\\app-router.js": {
+    "C:\\Users\\Admin\\Desktop\\csy-website-gunj\\node_modules\\next\\dist\\client\\components\\app-router.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "*",
       "chunks": [
@@ -325,7 +325,7 @@
       ],
       "async": false
     },
-    "D:\\SG Documents\\IIIT Kottayam\\CSY Club\\repos\\CyberSecurity-Club-Website\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js": {
+    "C:\\Users\\Admin\\Desktop\\csy-website-gunj\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "*",
       "chunks": [
@@ -333,7 +333,7 @@
       ],
       "async": false
     },
-    "D:\\SG Documents\\IIIT Kottayam\\CSY Club\\repos\\CyberSecurity-Club-Website\\node_modules\\next\\dist\\client\\components\\app-router.js#": {
+    "C:\\Users\\Admin\\Desktop\\csy-website-gunj\\node_modules\\next\\dist\\client\\components\\app-router.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "",
       "chunks": [
@@ -341,7 +341,7 @@
       ],
       "async": false
     },
-    "D:\\SG Documents\\IIIT Kottayam\\CSY Club\\repos\\CyberSecurity-Club-Website\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#": {
+    "C:\\Users\\Admin\\Desktop\\csy-website-gunj\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "",
       "chunks": [
@@ -349,7 +349,7 @@
       ],
       "async": false
     },
-    "D:\\SG Documents\\IIIT Kottayam\\CSY Club\\repos\\CyberSecurity-Club-Website\\node_modules\\next\\dist\\client\\components\\app-router.js#default": {
+    "C:\\Users\\Admin\\Desktop\\csy-website-gunj\\node_modules\\next\\dist\\client\\components\\app-router.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "default",
       "chunks": [
@@ -357,7 +357,7 @@
       ],
       "async": false
     },
-    "D:\\SG Documents\\IIIT Kottayam\\CSY Club\\repos\\CyberSecurity-Club-Website\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#default": {
+    "C:\\Users\\Admin\\Desktop\\csy-website-gunj\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "default",
       "chunks": [
@@ -365,15 +365,7 @@
       ],
       "async": false
     },
-    "D:\\SG Documents\\IIIT Kottayam\\CSY Club\\repos\\CyberSecurity-Club-Website\\node_modules\\next\\dist\\client\\components\\app-router.js#getServerActionDispatcher": {
-      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
-      "name": "getServerActionDispatcher",
-      "chunks": [
-        "webpack:static/chunks/webpack.js"
-      ],
-      "async": false
-    },
-    "D:\\SG Documents\\IIIT Kottayam\\CSY Club\\repos\\CyberSecurity-Club-Website\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#getServerActionDispatcher": {
+    "C:\\Users\\Admin\\Desktop\\csy-website-gunj\\node_modules\\next\\dist\\client\\components\\app-router.js#getServerActionDispatcher": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "getServerActionDispatcher",
       "chunks": [
@@ -381,7 +373,15 @@
       ],
       "async": false
     },
-    "D:\\SG Documents\\IIIT Kottayam\\CSY Club\\repos\\CyberSecurity-Club-Website\\node_modules\\next\\dist\\client\\components\\app-router.js#urlToUrlWithoutFlightMarker": {
+    "C:\\Users\\Admin\\Desktop\\csy-website-gunj\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#getServerActionDispatcher": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "getServerActionDispatcher",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Admin\\Desktop\\csy-website-gunj\\node_modules\\next\\dist\\client\\components\\app-router.js#urlToUrlWithoutFlightMarker": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "urlToUrlWithoutFlightMarker",
       "chunks": [
@@ -389,7 +389,7 @@
       ],
       "async": false
     },
-    "D:\\SG Documents\\IIIT Kottayam\\CSY Club\\repos\\CyberSecurity-Club-Website\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#urlToUrlWithoutFlightMarker": {
+    "C:\\Users\\Admin\\Desktop\\csy-website-gunj\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#urlToUrlWithoutFlightMarker": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "urlToUrlWithoutFlightMarker",
       "chunks": [
@@ -397,7 +397,7 @@
       ],
       "async": false
     },
-    "D:\\SG Documents\\IIIT Kottayam\\CSY Club\\repos\\CyberSecurity-Club-Website\\node_modules\\next\\dist\\client\\components\\error-boundary.js": {
+    "C:\\Users\\Admin\\Desktop\\csy-website-gunj\\node_modules\\next\\dist\\client\\components\\error-boundary.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "*",
       "chunks": [
@@ -405,7 +405,7 @@
       ],
       "async": false
     },
-    "D:\\SG Documents\\IIIT Kottayam\\CSY Club\\repos\\CyberSecurity-Club-Website\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js": {
+    "C:\\Users\\Admin\\Desktop\\csy-website-gunj\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "*",
       "chunks": [
@@ -413,7 +413,7 @@
       ],
       "async": false
     },
-    "D:\\SG Documents\\IIIT Kottayam\\CSY Club\\repos\\CyberSecurity-Club-Website\\node_modules\\next\\dist\\client\\components\\error-boundary.js#": {
+    "C:\\Users\\Admin\\Desktop\\csy-website-gunj\\node_modules\\next\\dist\\client\\components\\error-boundary.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "",
       "chunks": [
@@ -421,7 +421,7 @@
       ],
       "async": false
     },
-    "D:\\SG Documents\\IIIT Kottayam\\CSY Club\\repos\\CyberSecurity-Club-Website\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#": {
+    "C:\\Users\\Admin\\Desktop\\csy-website-gunj\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "",
       "chunks": [
@@ -429,7 +429,7 @@
       ],
       "async": false
     },
-    "D:\\SG Documents\\IIIT Kottayam\\CSY Club\\repos\\CyberSecurity-Club-Website\\node_modules\\next\\dist\\client\\components\\error-boundary.js#default": {
+    "C:\\Users\\Admin\\Desktop\\csy-website-gunj\\node_modules\\next\\dist\\client\\components\\error-boundary.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "default",
       "chunks": [
@@ -437,7 +437,7 @@
       ],
       "async": false
     },
-    "D:\\SG Documents\\IIIT Kottayam\\CSY Club\\repos\\CyberSecurity-Club-Website\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#default": {
+    "C:\\Users\\Admin\\Desktop\\csy-website-gunj\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "default",
       "chunks": [
@@ -445,15 +445,7 @@
       ],
       "async": false
     },
-    "D:\\SG Documents\\IIIT Kottayam\\CSY Club\\repos\\CyberSecurity-Club-Website\\node_modules\\next\\dist\\client\\components\\error-boundary.js#ErrorBoundaryHandler": {
-      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
-      "name": "ErrorBoundaryHandler",
-      "chunks": [
-        "webpack:static/chunks/webpack.js"
-      ],
-      "async": false
-    },
-    "D:\\SG Documents\\IIIT Kottayam\\CSY Club\\repos\\CyberSecurity-Club-Website\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#ErrorBoundaryHandler": {
+    "C:\\Users\\Admin\\Desktop\\csy-website-gunj\\node_modules\\next\\dist\\client\\components\\error-boundary.js#ErrorBoundaryHandler": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "ErrorBoundaryHandler",
       "chunks": [
@@ -461,7 +453,15 @@
       ],
       "async": false
     },
-    "D:\\SG Documents\\IIIT Kottayam\\CSY Club\\repos\\CyberSecurity-Club-Website\\node_modules\\next\\dist\\client\\components\\error-boundary.js#ErrorBoundary": {
+    "C:\\Users\\Admin\\Desktop\\csy-website-gunj\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#ErrorBoundaryHandler": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "ErrorBoundaryHandler",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Admin\\Desktop\\csy-website-gunj\\node_modules\\next\\dist\\client\\components\\error-boundary.js#ErrorBoundary": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "ErrorBoundary",
       "chunks": [
@@ -469,7 +469,7 @@
       ],
       "async": false
     },
-    "D:\\SG Documents\\IIIT Kottayam\\CSY Club\\repos\\CyberSecurity-Club-Website\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#ErrorBoundary": {
+    "C:\\Users\\Admin\\Desktop\\csy-website-gunj\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#ErrorBoundary": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "ErrorBoundary",
       "chunks": [
@@ -477,7 +477,7 @@
       ],
       "async": false
     },
-    "D:\\SG Documents\\IIIT Kottayam\\CSY Club\\repos\\CyberSecurity-Club-Website\\node_modules\\next\\dist\\client\\components\\redirect-boundary.js": {
+    "C:\\Users\\Admin\\Desktop\\csy-website-gunj\\node_modules\\next\\dist\\client\\components\\redirect-boundary.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "*",
       "chunks": [
@@ -485,7 +485,7 @@
       ],
       "async": false
     },
-    "D:\\SG Documents\\IIIT Kottayam\\CSY Club\\repos\\CyberSecurity-Club-Website\\node_modules\\next\\dist\\esm\\client\\components\\redirect-boundary.js": {
+    "C:\\Users\\Admin\\Desktop\\csy-website-gunj\\node_modules\\next\\dist\\esm\\client\\components\\redirect-boundary.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "*",
       "chunks": [
@@ -493,7 +493,7 @@
       ],
       "async": false
     },
-    "D:\\SG Documents\\IIIT Kottayam\\CSY Club\\repos\\CyberSecurity-Club-Website\\node_modules\\next\\dist\\client\\components\\redirect-boundary.js#": {
+    "C:\\Users\\Admin\\Desktop\\csy-website-gunj\\node_modules\\next\\dist\\client\\components\\redirect-boundary.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "",
       "chunks": [
@@ -501,7 +501,7 @@
       ],
       "async": false
     },
-    "D:\\SG Documents\\IIIT Kottayam\\CSY Club\\repos\\CyberSecurity-Club-Website\\node_modules\\next\\dist\\esm\\client\\components\\redirect-boundary.js#": {
+    "C:\\Users\\Admin\\Desktop\\csy-website-gunj\\node_modules\\next\\dist\\esm\\client\\components\\redirect-boundary.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "",
       "chunks": [
@@ -509,7 +509,7 @@
       ],
       "async": false
     },
-    "D:\\SG Documents\\IIIT Kottayam\\CSY Club\\repos\\CyberSecurity-Club-Website\\node_modules\\next\\dist\\client\\components\\redirect-boundary.js#default": {
+    "C:\\Users\\Admin\\Desktop\\csy-website-gunj\\node_modules\\next\\dist\\client\\components\\redirect-boundary.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "default",
       "chunks": [
@@ -517,7 +517,7 @@
       ],
       "async": false
     },
-    "D:\\SG Documents\\IIIT Kottayam\\CSY Club\\repos\\CyberSecurity-Club-Website\\node_modules\\next\\dist\\esm\\client\\components\\redirect-boundary.js#default": {
+    "C:\\Users\\Admin\\Desktop\\csy-website-gunj\\node_modules\\next\\dist\\esm\\client\\components\\redirect-boundary.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "default",
       "chunks": [
@@ -525,15 +525,7 @@
       ],
       "async": false
     },
-    "D:\\SG Documents\\IIIT Kottayam\\CSY Club\\repos\\CyberSecurity-Club-Website\\node_modules\\next\\dist\\client\\components\\redirect-boundary.js#RedirectErrorBoundary": {
-      "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
-      "name": "RedirectErrorBoundary",
-      "chunks": [
-        "webpack:static/chunks/webpack.js"
-      ],
-      "async": false
-    },
-    "D:\\SG Documents\\IIIT Kottayam\\CSY Club\\repos\\CyberSecurity-Club-Website\\node_modules\\next\\dist\\esm\\client\\components\\redirect-boundary.js#RedirectErrorBoundary": {
+    "C:\\Users\\Admin\\Desktop\\csy-website-gunj\\node_modules\\next\\dist\\client\\components\\redirect-boundary.js#RedirectErrorBoundary": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "RedirectErrorBoundary",
       "chunks": [
@@ -541,7 +533,15 @@
       ],
       "async": false
     },
-    "D:\\SG Documents\\IIIT Kottayam\\CSY Club\\repos\\CyberSecurity-Club-Website\\node_modules\\next\\dist\\client\\components\\redirect-boundary.js#RedirectBoundary": {
+    "C:\\Users\\Admin\\Desktop\\csy-website-gunj\\node_modules\\next\\dist\\esm\\client\\components\\redirect-boundary.js#RedirectErrorBoundary": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
+      "name": "RedirectErrorBoundary",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Admin\\Desktop\\csy-website-gunj\\node_modules\\next\\dist\\client\\components\\redirect-boundary.js#RedirectBoundary": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "RedirectBoundary",
       "chunks": [
@@ -549,7 +549,7 @@
       ],
       "async": false
     },
-    "D:\\SG Documents\\IIIT Kottayam\\CSY Club\\repos\\CyberSecurity-Club-Website\\node_modules\\next\\dist\\esm\\client\\components\\redirect-boundary.js#RedirectBoundary": {
+    "C:\\Users\\Admin\\Desktop\\csy-website-gunj\\node_modules\\next\\dist\\esm\\client\\components\\redirect-boundary.js#RedirectBoundary": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "RedirectBoundary",
       "chunks": [
@@ -557,7 +557,7 @@
       ],
       "async": false
     },
-    "D:\\SG Documents\\IIIT Kottayam\\CSY Club\\repos\\CyberSecurity-Club-Website\\node_modules\\next\\dist\\client\\components\\router-reducer\\fetch-server-response.js": {
+    "C:\\Users\\Admin\\Desktop\\csy-website-gunj\\node_modules\\next\\dist\\client\\components\\router-reducer\\fetch-server-response.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js",
       "name": "*",
       "chunks": [
@@ -565,7 +565,7 @@
       ],
       "async": false
     },
-    "D:\\SG Documents\\IIIT Kottayam\\CSY Club\\repos\\CyberSecurity-Club-Website\\node_modules\\next\\dist\\esm\\client\\components\\router-reducer\\fetch-server-response.js": {
+    "C:\\Users\\Admin\\Desktop\\csy-website-gunj\\node_modules\\next\\dist\\esm\\client\\components\\router-reducer\\fetch-server-response.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js",
       "name": "*",
       "chunks": [
@@ -573,7 +573,7 @@
       ],
       "async": false
     },
-    "D:\\SG Documents\\IIIT Kottayam\\CSY Club\\repos\\CyberSecurity-Club-Website\\node_modules\\next\\dist\\client\\components\\router-reducer\\fetch-server-response.js#": {
+    "C:\\Users\\Admin\\Desktop\\csy-website-gunj\\node_modules\\next\\dist\\client\\components\\router-reducer\\fetch-server-response.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js",
       "name": "",
       "chunks": [
@@ -581,7 +581,7 @@
       ],
       "async": false
     },
-    "D:\\SG Documents\\IIIT Kottayam\\CSY Club\\repos\\CyberSecurity-Club-Website\\node_modules\\next\\dist\\esm\\client\\components\\router-reducer\\fetch-server-response.js#": {
+    "C:\\Users\\Admin\\Desktop\\csy-website-gunj\\node_modules\\next\\dist\\esm\\client\\components\\router-reducer\\fetch-server-response.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js",
       "name": "",
       "chunks": [
@@ -589,7 +589,7 @@
       ],
       "async": false
     },
-    "D:\\SG Documents\\IIIT Kottayam\\CSY Club\\repos\\CyberSecurity-Club-Website\\node_modules\\next\\dist\\client\\components\\router-reducer\\fetch-server-response.js#default": {
+    "C:\\Users\\Admin\\Desktop\\csy-website-gunj\\node_modules\\next\\dist\\client\\components\\router-reducer\\fetch-server-response.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js",
       "name": "default",
       "chunks": [
@@ -597,7 +597,7 @@
       ],
       "async": false
     },
-    "D:\\SG Documents\\IIIT Kottayam\\CSY Club\\repos\\CyberSecurity-Club-Website\\node_modules\\next\\dist\\esm\\client\\components\\router-reducer\\fetch-server-response.js#default": {
+    "C:\\Users\\Admin\\Desktop\\csy-website-gunj\\node_modules\\next\\dist\\esm\\client\\components\\router-reducer\\fetch-server-response.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js",
       "name": "default",
       "chunks": [
@@ -605,7 +605,7 @@
       ],
       "async": false
     },
-    "D:\\SG Documents\\IIIT Kottayam\\CSY Club\\repos\\CyberSecurity-Club-Website\\node_modules\\next\\dist\\shared\\lib\\app-router-context.js": {
+    "C:\\Users\\Admin\\Desktop\\csy-website-gunj\\node_modules\\next\\dist\\shared\\lib\\app-router-context.js": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "*",
       "chunks": [
@@ -613,7 +613,7 @@
       ],
       "async": false
     },
-    "D:\\SG Documents\\IIIT Kottayam\\CSY Club\\repos\\CyberSecurity-Club-Website\\node_modules\\next\\dist\\esm\\shared\\lib\\app-router-context.js": {
+    "C:\\Users\\Admin\\Desktop\\csy-website-gunj\\node_modules\\next\\dist\\esm\\shared\\lib\\app-router-context.js": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "*",
       "chunks": [
@@ -621,7 +621,7 @@
       ],
       "async": false
     },
-    "D:\\SG Documents\\IIIT Kottayam\\CSY Club\\repos\\CyberSecurity-Club-Website\\node_modules\\next\\dist\\shared\\lib\\app-router-context.js#": {
+    "C:\\Users\\Admin\\Desktop\\csy-website-gunj\\node_modules\\next\\dist\\shared\\lib\\app-router-context.js#": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "",
       "chunks": [
@@ -629,7 +629,7 @@
       ],
       "async": false
     },
-    "D:\\SG Documents\\IIIT Kottayam\\CSY Club\\repos\\CyberSecurity-Club-Website\\node_modules\\next\\dist\\esm\\shared\\lib\\app-router-context.js#": {
+    "C:\\Users\\Admin\\Desktop\\csy-website-gunj\\node_modules\\next\\dist\\esm\\shared\\lib\\app-router-context.js#": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "",
       "chunks": [
@@ -637,7 +637,7 @@
       ],
       "async": false
     },
-    "D:\\SG Documents\\IIIT Kottayam\\CSY Club\\repos\\CyberSecurity-Club-Website\\node_modules\\next\\dist\\shared\\lib\\app-router-context.js#CacheStates": {
+    "C:\\Users\\Admin\\Desktop\\csy-website-gunj\\node_modules\\next\\dist\\shared\\lib\\app-router-context.js#CacheStates": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "CacheStates",
       "chunks": [
@@ -645,7 +645,7 @@
       ],
       "async": false
     },
-    "D:\\SG Documents\\IIIT Kottayam\\CSY Club\\repos\\CyberSecurity-Club-Website\\node_modules\\next\\dist\\esm\\shared\\lib\\app-router-context.js#CacheStates": {
+    "C:\\Users\\Admin\\Desktop\\csy-website-gunj\\node_modules\\next\\dist\\esm\\shared\\lib\\app-router-context.js#CacheStates": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "CacheStates",
       "chunks": [
@@ -653,7 +653,7 @@
       ],
       "async": false
     },
-    "D:\\SG Documents\\IIIT Kottayam\\CSY Club\\repos\\CyberSecurity-Club-Website\\node_modules\\next\\dist\\shared\\lib\\app-router-context.js#AppRouterContext": {
+    "C:\\Users\\Admin\\Desktop\\csy-website-gunj\\node_modules\\next\\dist\\shared\\lib\\app-router-context.js#AppRouterContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "AppRouterContext",
       "chunks": [
@@ -661,7 +661,7 @@
       ],
       "async": false
     },
-    "D:\\SG Documents\\IIIT Kottayam\\CSY Club\\repos\\CyberSecurity-Club-Website\\node_modules\\next\\dist\\esm\\shared\\lib\\app-router-context.js#AppRouterContext": {
+    "C:\\Users\\Admin\\Desktop\\csy-website-gunj\\node_modules\\next\\dist\\esm\\shared\\lib\\app-router-context.js#AppRouterContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "AppRouterContext",
       "chunks": [
@@ -669,7 +669,7 @@
       ],
       "async": false
     },
-    "D:\\SG Documents\\IIIT Kottayam\\CSY Club\\repos\\CyberSecurity-Club-Website\\node_modules\\next\\dist\\shared\\lib\\app-router-context.js#LayoutRouterContext": {
+    "C:\\Users\\Admin\\Desktop\\csy-website-gunj\\node_modules\\next\\dist\\shared\\lib\\app-router-context.js#LayoutRouterContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "LayoutRouterContext",
       "chunks": [
@@ -677,7 +677,7 @@
       ],
       "async": false
     },
-    "D:\\SG Documents\\IIIT Kottayam\\CSY Club\\repos\\CyberSecurity-Club-Website\\node_modules\\next\\dist\\esm\\shared\\lib\\app-router-context.js#LayoutRouterContext": {
+    "C:\\Users\\Admin\\Desktop\\csy-website-gunj\\node_modules\\next\\dist\\esm\\shared\\lib\\app-router-context.js#LayoutRouterContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "LayoutRouterContext",
       "chunks": [
@@ -685,7 +685,7 @@
       ],
       "async": false
     },
-    "D:\\SG Documents\\IIIT Kottayam\\CSY Club\\repos\\CyberSecurity-Club-Website\\node_modules\\next\\dist\\shared\\lib\\app-router-context.js#GlobalLayoutRouterContext": {
+    "C:\\Users\\Admin\\Desktop\\csy-website-gunj\\node_modules\\next\\dist\\shared\\lib\\app-router-context.js#GlobalLayoutRouterContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "GlobalLayoutRouterContext",
       "chunks": [
@@ -693,7 +693,7 @@
       ],
       "async": false
     },
-    "D:\\SG Documents\\IIIT Kottayam\\CSY Club\\repos\\CyberSecurity-Club-Website\\node_modules\\next\\dist\\esm\\shared\\lib\\app-router-context.js#GlobalLayoutRouterContext": {
+    "C:\\Users\\Admin\\Desktop\\csy-website-gunj\\node_modules\\next\\dist\\esm\\shared\\lib\\app-router-context.js#GlobalLayoutRouterContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "GlobalLayoutRouterContext",
       "chunks": [
@@ -701,7 +701,7 @@
       ],
       "async": false
     },
-    "D:\\SG Documents\\IIIT Kottayam\\CSY Club\\repos\\CyberSecurity-Club-Website\\node_modules\\next\\dist\\shared\\lib\\app-router-context.js#TemplateContext": {
+    "C:\\Users\\Admin\\Desktop\\csy-website-gunj\\node_modules\\next\\dist\\shared\\lib\\app-router-context.js#TemplateContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "TemplateContext",
       "chunks": [
@@ -709,7 +709,7 @@
       ],
       "async": false
     },
-    "D:\\SG Documents\\IIIT Kottayam\\CSY Club\\repos\\CyberSecurity-Club-Website\\node_modules\\next\\dist\\esm\\shared\\lib\\app-router-context.js#TemplateContext": {
+    "C:\\Users\\Admin\\Desktop\\csy-website-gunj\\node_modules\\next\\dist\\esm\\shared\\lib\\app-router-context.js#TemplateContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "TemplateContext",
       "chunks": [
@@ -717,7 +717,7 @@
       ],
       "async": false
     },
-    "D:\\SG Documents\\IIIT Kottayam\\CSY Club\\repos\\CyberSecurity-Club-Website\\node_modules\\next\\dist\\shared\\lib\\hooks-client-context.js": {
+    "C:\\Users\\Admin\\Desktop\\csy-website-gunj\\node_modules\\next\\dist\\shared\\lib\\hooks-client-context.js": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
       "name": "*",
       "chunks": [
@@ -725,7 +725,7 @@
       ],
       "async": false
     },
-    "D:\\SG Documents\\IIIT Kottayam\\CSY Club\\repos\\CyberSecurity-Club-Website\\node_modules\\next\\dist\\esm\\shared\\lib\\hooks-client-context.js": {
+    "C:\\Users\\Admin\\Desktop\\csy-website-gunj\\node_modules\\next\\dist\\esm\\shared\\lib\\hooks-client-context.js": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
       "name": "*",
       "chunks": [
@@ -733,7 +733,7 @@
       ],
       "async": false
     },
-    "D:\\SG Documents\\IIIT Kottayam\\CSY Club\\repos\\CyberSecurity-Club-Website\\node_modules\\next\\dist\\shared\\lib\\hooks-client-context.js#": {
+    "C:\\Users\\Admin\\Desktop\\csy-website-gunj\\node_modules\\next\\dist\\shared\\lib\\hooks-client-context.js#": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
       "name": "",
       "chunks": [
@@ -741,7 +741,7 @@
       ],
       "async": false
     },
-    "D:\\SG Documents\\IIIT Kottayam\\CSY Club\\repos\\CyberSecurity-Club-Website\\node_modules\\next\\dist\\esm\\shared\\lib\\hooks-client-context.js#": {
+    "C:\\Users\\Admin\\Desktop\\csy-website-gunj\\node_modules\\next\\dist\\esm\\shared\\lib\\hooks-client-context.js#": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
       "name": "",
       "chunks": [
@@ -749,15 +749,7 @@
       ],
       "async": false
     },
-    "D:\\SG Documents\\IIIT Kottayam\\CSY Club\\repos\\CyberSecurity-Club-Website\\node_modules\\next\\dist\\shared\\lib\\hooks-client-context.js#SearchParamsContext": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
-      "name": "SearchParamsContext",
-      "chunks": [
-        "webpack:static/chunks/webpack.js"
-      ],
-      "async": false
-    },
-    "D:\\SG Documents\\IIIT Kottayam\\CSY Club\\repos\\CyberSecurity-Club-Website\\node_modules\\next\\dist\\esm\\shared\\lib\\hooks-client-context.js#SearchParamsContext": {
+    "C:\\Users\\Admin\\Desktop\\csy-website-gunj\\node_modules\\next\\dist\\shared\\lib\\hooks-client-context.js#SearchParamsContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
       "name": "SearchParamsContext",
       "chunks": [
@@ -765,7 +757,15 @@
       ],
       "async": false
     },
-    "D:\\SG Documents\\IIIT Kottayam\\CSY Club\\repos\\CyberSecurity-Club-Website\\node_modules\\next\\dist\\shared\\lib\\hooks-client-context.js#PathnameContext": {
+    "C:\\Users\\Admin\\Desktop\\csy-website-gunj\\node_modules\\next\\dist\\esm\\shared\\lib\\hooks-client-context.js#SearchParamsContext": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
+      "name": "SearchParamsContext",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Admin\\Desktop\\csy-website-gunj\\node_modules\\next\\dist\\shared\\lib\\hooks-client-context.js#PathnameContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
       "name": "PathnameContext",
       "chunks": [
@@ -773,7 +773,7 @@
       ],
       "async": false
     },
-    "D:\\SG Documents\\IIIT Kottayam\\CSY Club\\repos\\CyberSecurity-Club-Website\\node_modules\\next\\dist\\esm\\shared\\lib\\hooks-client-context.js#PathnameContext": {
+    "C:\\Users\\Admin\\Desktop\\csy-website-gunj\\node_modules\\next\\dist\\esm\\shared\\lib\\hooks-client-context.js#PathnameContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
       "name": "PathnameContext",
       "chunks": [
@@ -781,7 +781,7 @@
       ],
       "async": false
     },
-    "D:\\SG Documents\\IIIT Kottayam\\CSY Club\\repos\\CyberSecurity-Club-Website\\node_modules\\next\\dist\\shared\\lib\\server-inserted-html.js": {
+    "C:\\Users\\Admin\\Desktop\\csy-website-gunj\\node_modules\\next\\dist\\shared\\lib\\server-inserted-html.js": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
       "name": "*",
       "chunks": [
@@ -789,7 +789,7 @@
       ],
       "async": false
     },
-    "D:\\SG Documents\\IIIT Kottayam\\CSY Club\\repos\\CyberSecurity-Club-Website\\node_modules\\next\\dist\\esm\\shared\\lib\\server-inserted-html.js": {
+    "C:\\Users\\Admin\\Desktop\\csy-website-gunj\\node_modules\\next\\dist\\esm\\shared\\lib\\server-inserted-html.js": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
       "name": "*",
       "chunks": [
@@ -797,7 +797,7 @@
       ],
       "async": false
     },
-    "D:\\SG Documents\\IIIT Kottayam\\CSY Club\\repos\\CyberSecurity-Club-Website\\node_modules\\next\\dist\\shared\\lib\\server-inserted-html.js#": {
+    "C:\\Users\\Admin\\Desktop\\csy-website-gunj\\node_modules\\next\\dist\\shared\\lib\\server-inserted-html.js#": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
       "name": "",
       "chunks": [
@@ -805,7 +805,7 @@
       ],
       "async": false
     },
-    "D:\\SG Documents\\IIIT Kottayam\\CSY Club\\repos\\CyberSecurity-Club-Website\\node_modules\\next\\dist\\esm\\shared\\lib\\server-inserted-html.js#": {
+    "C:\\Users\\Admin\\Desktop\\csy-website-gunj\\node_modules\\next\\dist\\esm\\shared\\lib\\server-inserted-html.js#": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
       "name": "",
       "chunks": [
@@ -813,15 +813,7 @@
       ],
       "async": false
     },
-    "D:\\SG Documents\\IIIT Kottayam\\CSY Club\\repos\\CyberSecurity-Club-Website\\node_modules\\next\\dist\\shared\\lib\\server-inserted-html.js#ServerInsertedHTMLContext": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
-      "name": "ServerInsertedHTMLContext",
-      "chunks": [
-        "webpack:static/chunks/webpack.js"
-      ],
-      "async": false
-    },
-    "D:\\SG Documents\\IIIT Kottayam\\CSY Club\\repos\\CyberSecurity-Club-Website\\node_modules\\next\\dist\\esm\\shared\\lib\\server-inserted-html.js#ServerInsertedHTMLContext": {
+    "C:\\Users\\Admin\\Desktop\\csy-website-gunj\\node_modules\\next\\dist\\shared\\lib\\server-inserted-html.js#ServerInsertedHTMLContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
       "name": "ServerInsertedHTMLContext",
       "chunks": [
@@ -829,7 +821,15 @@
       ],
       "async": false
     },
-    "D:\\SG Documents\\IIIT Kottayam\\CSY Club\\repos\\CyberSecurity-Club-Website\\node_modules\\next\\dist\\shared\\lib\\server-inserted-html.js#useServerInsertedHTML": {
+    "C:\\Users\\Admin\\Desktop\\csy-website-gunj\\node_modules\\next\\dist\\esm\\shared\\lib\\server-inserted-html.js#ServerInsertedHTMLContext": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
+      "name": "ServerInsertedHTMLContext",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Admin\\Desktop\\csy-website-gunj\\node_modules\\next\\dist\\shared\\lib\\server-inserted-html.js#useServerInsertedHTML": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
       "name": "useServerInsertedHTML",
       "chunks": [
@@ -837,7 +837,7 @@
       ],
       "async": false
     },
-    "D:\\SG Documents\\IIIT Kottayam\\CSY Club\\repos\\CyberSecurity-Club-Website\\node_modules\\next\\dist\\esm\\shared\\lib\\server-inserted-html.js#useServerInsertedHTML": {
+    "C:\\Users\\Admin\\Desktop\\csy-website-gunj\\node_modules\\next\\dist\\esm\\shared\\lib\\server-inserted-html.js#useServerInsertedHTML": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
       "name": "useServerInsertedHTML",
       "chunks": [
@@ -845,7 +845,7 @@
       ],
       "async": false
     },
-    "D:\\SG Documents\\IIIT Kottayam\\CSY Club\\repos\\CyberSecurity-Club-Website\\node_modules\\next\\dist\\client\\components\\layout-router.js": {
+    "C:\\Users\\Admin\\Desktop\\csy-website-gunj\\node_modules\\next\\dist\\client\\components\\layout-router.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
       "name": "*",
       "chunks": [
@@ -853,7 +853,7 @@
       ],
       "async": false
     },
-    "D:\\SG Documents\\IIIT Kottayam\\CSY Club\\repos\\CyberSecurity-Club-Website\\node_modules\\next\\dist\\esm\\client\\components\\layout-router.js": {
+    "C:\\Users\\Admin\\Desktop\\csy-website-gunj\\node_modules\\next\\dist\\esm\\client\\components\\layout-router.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
       "name": "*",
       "chunks": [
@@ -861,7 +861,7 @@
       ],
       "async": false
     },
-    "D:\\SG Documents\\IIIT Kottayam\\CSY Club\\repos\\CyberSecurity-Club-Website\\node_modules\\next\\dist\\client\\components\\layout-router.js#": {
+    "C:\\Users\\Admin\\Desktop\\csy-website-gunj\\node_modules\\next\\dist\\client\\components\\layout-router.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
       "name": "",
       "chunks": [
@@ -869,7 +869,7 @@
       ],
       "async": false
     },
-    "D:\\SG Documents\\IIIT Kottayam\\CSY Club\\repos\\CyberSecurity-Club-Website\\node_modules\\next\\dist\\esm\\client\\components\\layout-router.js#": {
+    "C:\\Users\\Admin\\Desktop\\csy-website-gunj\\node_modules\\next\\dist\\esm\\client\\components\\layout-router.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
       "name": "",
       "chunks": [
@@ -877,7 +877,7 @@
       ],
       "async": false
     },
-    "D:\\SG Documents\\IIIT Kottayam\\CSY Club\\repos\\CyberSecurity-Club-Website\\node_modules\\next\\dist\\client\\components\\layout-router.js#default": {
+    "C:\\Users\\Admin\\Desktop\\csy-website-gunj\\node_modules\\next\\dist\\client\\components\\layout-router.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
       "name": "default",
       "chunks": [
@@ -885,7 +885,7 @@
       ],
       "async": false
     },
-    "D:\\SG Documents\\IIIT Kottayam\\CSY Club\\repos\\CyberSecurity-Club-Website\\node_modules\\next\\dist\\esm\\client\\components\\layout-router.js#default": {
+    "C:\\Users\\Admin\\Desktop\\csy-website-gunj\\node_modules\\next\\dist\\esm\\client\\components\\layout-router.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
       "name": "default",
       "chunks": [
@@ -893,7 +893,7 @@
       ],
       "async": false
     },
-    "D:\\SG Documents\\IIIT Kottayam\\CSY Club\\repos\\CyberSecurity-Club-Website\\node_modules\\next\\dist\\client\\components\\render-from-template-context.js": {
+    "C:\\Users\\Admin\\Desktop\\csy-website-gunj\\node_modules\\next\\dist\\client\\components\\render-from-template-context.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
       "name": "*",
       "chunks": [
@@ -901,7 +901,7 @@
       ],
       "async": false
     },
-    "D:\\SG Documents\\IIIT Kottayam\\CSY Club\\repos\\CyberSecurity-Club-Website\\node_modules\\next\\dist\\esm\\client\\components\\render-from-template-context.js": {
+    "C:\\Users\\Admin\\Desktop\\csy-website-gunj\\node_modules\\next\\dist\\esm\\client\\components\\render-from-template-context.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
       "name": "*",
       "chunks": [
@@ -909,7 +909,7 @@
       ],
       "async": false
     },
-    "D:\\SG Documents\\IIIT Kottayam\\CSY Club\\repos\\CyberSecurity-Club-Website\\node_modules\\next\\dist\\client\\components\\render-from-template-context.js#": {
+    "C:\\Users\\Admin\\Desktop\\csy-website-gunj\\node_modules\\next\\dist\\client\\components\\render-from-template-context.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
       "name": "",
       "chunks": [
@@ -917,7 +917,7 @@
       ],
       "async": false
     },
-    "D:\\SG Documents\\IIIT Kottayam\\CSY Club\\repos\\CyberSecurity-Club-Website\\node_modules\\next\\dist\\esm\\client\\components\\render-from-template-context.js#": {
+    "C:\\Users\\Admin\\Desktop\\csy-website-gunj\\node_modules\\next\\dist\\esm\\client\\components\\render-from-template-context.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
       "name": "",
       "chunks": [
@@ -925,7 +925,7 @@
       ],
       "async": false
     },
-    "D:\\SG Documents\\IIIT Kottayam\\CSY Club\\repos\\CyberSecurity-Club-Website\\node_modules\\next\\dist\\client\\components\\render-from-template-context.js#default": {
+    "C:\\Users\\Admin\\Desktop\\csy-website-gunj\\node_modules\\next\\dist\\client\\components\\render-from-template-context.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
       "name": "default",
       "chunks": [
@@ -933,7 +933,7 @@
       ],
       "async": false
     },
-    "D:\\SG Documents\\IIIT Kottayam\\CSY Club\\repos\\CyberSecurity-Club-Website\\node_modules\\next\\dist\\esm\\client\\components\\render-from-template-context.js#default": {
+    "C:\\Users\\Admin\\Desktop\\csy-website-gunj\\node_modules\\next\\dist\\esm\\client\\components\\render-from-template-context.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
       "name": "default",
       "chunks": [
@@ -941,7 +941,7 @@
       ],
       "async": false
     },
-    "D:\\SG Documents\\IIIT Kottayam\\CSY Club\\repos\\CyberSecurity-Club-Website\\node_modules\\next\\dist\\client\\components\\static-generation-searchparams-bailout-provider.js": {
+    "C:\\Users\\Admin\\Desktop\\csy-website-gunj\\node_modules\\next\\dist\\client\\components\\static-generation-searchparams-bailout-provider.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
       "name": "*",
       "chunks": [
@@ -949,7 +949,7 @@
       ],
       "async": false
     },
-    "D:\\SG Documents\\IIIT Kottayam\\CSY Club\\repos\\CyberSecurity-Club-Website\\node_modules\\next\\dist\\esm\\client\\components\\static-generation-searchparams-bailout-provider.js": {
+    "C:\\Users\\Admin\\Desktop\\csy-website-gunj\\node_modules\\next\\dist\\esm\\client\\components\\static-generation-searchparams-bailout-provider.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
       "name": "*",
       "chunks": [
@@ -957,7 +957,7 @@
       ],
       "async": false
     },
-    "D:\\SG Documents\\IIIT Kottayam\\CSY Club\\repos\\CyberSecurity-Club-Website\\node_modules\\next\\dist\\client\\components\\static-generation-searchparams-bailout-provider.js#": {
+    "C:\\Users\\Admin\\Desktop\\csy-website-gunj\\node_modules\\next\\dist\\client\\components\\static-generation-searchparams-bailout-provider.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
       "name": "",
       "chunks": [
@@ -965,7 +965,7 @@
       ],
       "async": false
     },
-    "D:\\SG Documents\\IIIT Kottayam\\CSY Club\\repos\\CyberSecurity-Club-Website\\node_modules\\next\\dist\\esm\\client\\components\\static-generation-searchparams-bailout-provider.js#": {
+    "C:\\Users\\Admin\\Desktop\\csy-website-gunj\\node_modules\\next\\dist\\esm\\client\\components\\static-generation-searchparams-bailout-provider.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
       "name": "",
       "chunks": [
@@ -973,7 +973,7 @@
       ],
       "async": false
     },
-    "D:\\SG Documents\\IIIT Kottayam\\CSY Club\\repos\\CyberSecurity-Club-Website\\node_modules\\next\\dist\\client\\components\\static-generation-searchparams-bailout-provider.js#default": {
+    "C:\\Users\\Admin\\Desktop\\csy-website-gunj\\node_modules\\next\\dist\\client\\components\\static-generation-searchparams-bailout-provider.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
       "name": "default",
       "chunks": [
@@ -981,7 +981,7 @@
       ],
       "async": false
     },
-    "D:\\SG Documents\\IIIT Kottayam\\CSY Club\\repos\\CyberSecurity-Club-Website\\node_modules\\next\\dist\\esm\\client\\components\\static-generation-searchparams-bailout-provider.js#default": {
+    "C:\\Users\\Admin\\Desktop\\csy-website-gunj\\node_modules\\next\\dist\\esm\\client\\components\\static-generation-searchparams-bailout-provider.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
       "name": "default",
       "chunks": [
@@ -989,14 +989,14 @@
       ],
       "async": false
     },
-    "D:\\SG Documents\\IIIT Kottayam\\CSY Club\\repos\\CyberSecurity-Club-Website\\src\\app\\page.module.css#": {
+    "C:\\Users\\Admin\\Desktop\\csy-website-gunj\\src\\app\\page.module.css#": {
       "id": "null",
       "name": "default",
       "chunks": [
         "static/css/app/page.css"
       ]
     },
-    "D:\\SG Documents\\IIIT Kottayam\\CSY Club\\repos\\CyberSecurity-Club-Website\\node_modules\\next\\dist\\client\\image.js": {
+    "C:\\Users\\Admin\\Desktop\\csy-website-gunj\\node_modules\\next\\dist\\client\\image.js": {
       "id": "(app-client)/./node_modules/next/dist/client/image.js",
       "name": "*",
       "chunks": [
@@ -1004,7 +1004,7 @@
       ],
       "async": false
     },
-    "D:\\SG Documents\\IIIT Kottayam\\CSY Club\\repos\\CyberSecurity-Club-Website\\node_modules\\next\\dist\\esm\\client\\image.js": {
+    "C:\\Users\\Admin\\Desktop\\csy-website-gunj\\node_modules\\next\\dist\\esm\\client\\image.js": {
       "id": "(app-client)/./node_modules/next/dist/client/image.js",
       "name": "*",
       "chunks": [
@@ -1012,7 +1012,7 @@
       ],
       "async": false
     },
-    "D:\\SG Documents\\IIIT Kottayam\\CSY Club\\repos\\CyberSecurity-Club-Website\\node_modules\\next\\dist\\client\\image.js#": {
+    "C:\\Users\\Admin\\Desktop\\csy-website-gunj\\node_modules\\next\\dist\\client\\image.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/image.js",
       "name": "",
       "chunks": [
@@ -1020,7 +1020,7 @@
       ],
       "async": false
     },
-    "D:\\SG Documents\\IIIT Kottayam\\CSY Club\\repos\\CyberSecurity-Club-Website\\node_modules\\next\\dist\\esm\\client\\image.js#": {
+    "C:\\Users\\Admin\\Desktop\\csy-website-gunj\\node_modules\\next\\dist\\esm\\client\\image.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/image.js",
       "name": "",
       "chunks": [
@@ -1028,7 +1028,7 @@
       ],
       "async": false
     },
-    "D:\\SG Documents\\IIIT Kottayam\\CSY Club\\repos\\CyberSecurity-Club-Website\\node_modules\\next\\dist\\client\\image.js#default": {
+    "C:\\Users\\Admin\\Desktop\\csy-website-gunj\\node_modules\\next\\dist\\client\\image.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/image.js",
       "name": "default",
       "chunks": [
@@ -1036,7 +1036,7 @@
       ],
       "async": false
     },
-    "D:\\SG Documents\\IIIT Kottayam\\CSY Club\\repos\\CyberSecurity-Club-Website\\node_modules\\next\\dist\\esm\\client\\image.js#default": {
+    "C:\\Users\\Admin\\Desktop\\csy-website-gunj\\node_modules\\next\\dist\\esm\\client\\image.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/image.js",
       "name": "default",
       "chunks": [
@@ -1044,7 +1044,7 @@
       ],
       "async": false
     },
-    "D:\\SG Documents\\IIIT Kottayam\\CSY Club\\repos\\CyberSecurity-Club-Website\\node_modules\\next\\dist\\client\\link.js": {
+    "C:\\Users\\Admin\\Desktop\\csy-website-gunj\\node_modules\\next\\dist\\client\\link.js": {
       "id": "(app-client)/./node_modules/next/dist/client/link.js",
       "name": "*",
       "chunks": [
@@ -1052,7 +1052,7 @@
       ],
       "async": false
     },
-    "D:\\SG Documents\\IIIT Kottayam\\CSY Club\\repos\\CyberSecurity-Club-Website\\node_modules\\next\\dist\\esm\\client\\link.js": {
+    "C:\\Users\\Admin\\Desktop\\csy-website-gunj\\node_modules\\next\\dist\\esm\\client\\link.js": {
       "id": "(app-client)/./node_modules/next/dist/client/link.js",
       "name": "*",
       "chunks": [
@@ -1060,7 +1060,7 @@
       ],
       "async": false
     },
-    "D:\\SG Documents\\IIIT Kottayam\\CSY Club\\repos\\CyberSecurity-Club-Website\\node_modules\\next\\dist\\client\\link.js#": {
+    "C:\\Users\\Admin\\Desktop\\csy-website-gunj\\node_modules\\next\\dist\\client\\link.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/link.js",
       "name": "",
       "chunks": [
@@ -1068,7 +1068,7 @@
       ],
       "async": false
     },
-    "D:\\SG Documents\\IIIT Kottayam\\CSY Club\\repos\\CyberSecurity-Club-Website\\node_modules\\next\\dist\\esm\\client\\link.js#": {
+    "C:\\Users\\Admin\\Desktop\\csy-website-gunj\\node_modules\\next\\dist\\esm\\client\\link.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/link.js",
       "name": "",
       "chunks": [
@@ -1076,7 +1076,7 @@
       ],
       "async": false
     },
-    "D:\\SG Documents\\IIIT Kottayam\\CSY Club\\repos\\CyberSecurity-Club-Website\\node_modules\\next\\dist\\client\\link.js#default": {
+    "C:\\Users\\Admin\\Desktop\\csy-website-gunj\\node_modules\\next\\dist\\client\\link.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/link.js",
       "name": "default",
       "chunks": [
@@ -1084,7 +1084,7 @@
       ],
       "async": false
     },
-    "D:\\SG Documents\\IIIT Kottayam\\CSY Club\\repos\\CyberSecurity-Club-Website\\node_modules\\next\\dist\\esm\\client\\link.js#default": {
+    "C:\\Users\\Admin\\Desktop\\csy-website-gunj\\node_modules\\next\\dist\\esm\\client\\link.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/link.js",
       "name": "default",
       "chunks": [
@@ -1092,7 +1092,7 @@
       ],
       "async": false
     },
-    "D:\\SG Documents\\IIIT Kottayam\\CSY Club\\repos\\CyberSecurity-Club-Website\\node_modules\\next\\dist\\client\\script.js": {
+    "C:\\Users\\Admin\\Desktop\\csy-website-gunj\\node_modules\\next\\dist\\client\\script.js": {
       "id": "(app-client)/./node_modules/next/dist/client/script.js",
       "name": "*",
       "chunks": [
@@ -1100,7 +1100,7 @@
       ],
       "async": false
     },
-    "D:\\SG Documents\\IIIT Kottayam\\CSY Club\\repos\\CyberSecurity-Club-Website\\node_modules\\next\\dist\\esm\\client\\script.js": {
+    "C:\\Users\\Admin\\Desktop\\csy-website-gunj\\node_modules\\next\\dist\\esm\\client\\script.js": {
       "id": "(app-client)/./node_modules/next/dist/client/script.js",
       "name": "*",
       "chunks": [
@@ -1108,7 +1108,7 @@
       ],
       "async": false
     },
-    "D:\\SG Documents\\IIIT Kottayam\\CSY Club\\repos\\CyberSecurity-Club-Website\\node_modules\\next\\dist\\client\\script.js#": {
+    "C:\\Users\\Admin\\Desktop\\csy-website-gunj\\node_modules\\next\\dist\\client\\script.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/script.js",
       "name": "",
       "chunks": [
@@ -1116,7 +1116,7 @@
       ],
       "async": false
     },
-    "D:\\SG Documents\\IIIT Kottayam\\CSY Club\\repos\\CyberSecurity-Club-Website\\node_modules\\next\\dist\\esm\\client\\script.js#": {
+    "C:\\Users\\Admin\\Desktop\\csy-website-gunj\\node_modules\\next\\dist\\esm\\client\\script.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/script.js",
       "name": "",
       "chunks": [
@@ -1124,7 +1124,7 @@
       ],
       "async": false
     },
-    "D:\\SG Documents\\IIIT Kottayam\\CSY Club\\repos\\CyberSecurity-Club-Website\\node_modules\\next\\dist\\client\\script.js#default": {
+    "C:\\Users\\Admin\\Desktop\\csy-website-gunj\\node_modules\\next\\dist\\client\\script.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/script.js",
       "name": "default",
       "chunks": [
@@ -1132,7 +1132,7 @@
       ],
       "async": false
     },
-    "D:\\SG Documents\\IIIT Kottayam\\CSY Club\\repos\\CyberSecurity-Club-Website\\node_modules\\next\\dist\\esm\\client\\script.js#default": {
+    "C:\\Users\\Admin\\Desktop\\csy-website-gunj\\node_modules\\next\\dist\\esm\\client\\script.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/script.js",
       "name": "default",
       "chunks": [
@@ -1140,7 +1140,7 @@
       ],
       "async": false
     },
-    "D:\\SG Documents\\IIIT Kottayam\\CSY Club\\repos\\CyberSecurity-Club-Website\\node_modules\\next\\dist\\client\\script.js#handleClientScriptLoad": {
+    "C:\\Users\\Admin\\Desktop\\csy-website-gunj\\node_modules\\next\\dist\\client\\script.js#handleClientScriptLoad": {
       "id": "(app-client)/./node_modules/next/dist/client/script.js",
       "name": "handleClientScriptLoad",
       "chunks": [
@@ -1148,7 +1148,7 @@
       ],
       "async": false
     },
-    "D:\\SG Documents\\IIIT Kottayam\\CSY Club\\repos\\CyberSecurity-Club-Website\\node_modules\\next\\dist\\esm\\client\\script.js#handleClientScriptLoad": {
+    "C:\\Users\\Admin\\Desktop\\csy-website-gunj\\node_modules\\next\\dist\\esm\\client\\script.js#handleClientScriptLoad": {
       "id": "(app-client)/./node_modules/next/dist/client/script.js",
       "name": "handleClientScriptLoad",
       "chunks": [
@@ -1156,7 +1156,7 @@
       ],
       "async": false
     },
-    "D:\\SG Documents\\IIIT Kottayam\\CSY Club\\repos\\CyberSecurity-Club-Website\\node_modules\\next\\dist\\client\\script.js#initScriptLoader": {
+    "C:\\Users\\Admin\\Desktop\\csy-website-gunj\\node_modules\\next\\dist\\client\\script.js#initScriptLoader": {
       "id": "(app-client)/./node_modules/next/dist/client/script.js",
       "name": "initScriptLoader",
       "chunks": [
@@ -1164,7 +1164,7 @@
       ],
       "async": false
     },
-    "D:\\SG Documents\\IIIT Kottayam\\CSY Club\\repos\\CyberSecurity-Club-Website\\node_modules\\next\\dist\\esm\\client\\script.js#initScriptLoader": {
+    "C:\\Users\\Admin\\Desktop\\csy-website-gunj\\node_modules\\next\\dist\\esm\\client\\script.js#initScriptLoader": {
       "id": "(app-client)/./node_modules/next/dist/client/script.js",
       "name": "initScriptLoader",
       "chunks": [
@@ -1172,7 +1172,7 @@
       ],
       "async": false
     },
-    "D:\\SG Documents\\IIIT Kottayam\\CSY Club\\repos\\CyberSecurity-Club-Website\\node_modules\\next\\dist\\shared\\lib\\head.js": {
+    "C:\\Users\\Admin\\Desktop\\csy-website-gunj\\node_modules\\next\\dist\\shared\\lib\\head.js": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "*",
       "chunks": [
@@ -1180,7 +1180,7 @@
       ],
       "async": false
     },
-    "D:\\SG Documents\\IIIT Kottayam\\CSY Club\\repos\\CyberSecurity-Club-Website\\node_modules\\next\\dist\\esm\\shared\\lib\\head.js": {
+    "C:\\Users\\Admin\\Desktop\\csy-website-gunj\\node_modules\\next\\dist\\esm\\shared\\lib\\head.js": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "*",
       "chunks": [
@@ -1188,7 +1188,7 @@
       ],
       "async": false
     },
-    "D:\\SG Documents\\IIIT Kottayam\\CSY Club\\repos\\CyberSecurity-Club-Website\\node_modules\\next\\dist\\shared\\lib\\head.js#": {
+    "C:\\Users\\Admin\\Desktop\\csy-website-gunj\\node_modules\\next\\dist\\shared\\lib\\head.js#": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "",
       "chunks": [
@@ -1196,7 +1196,7 @@
       ],
       "async": false
     },
-    "D:\\SG Documents\\IIIT Kottayam\\CSY Club\\repos\\CyberSecurity-Club-Website\\node_modules\\next\\dist\\esm\\shared\\lib\\head.js#": {
+    "C:\\Users\\Admin\\Desktop\\csy-website-gunj\\node_modules\\next\\dist\\esm\\shared\\lib\\head.js#": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "",
       "chunks": [
@@ -1204,7 +1204,7 @@
       ],
       "async": false
     },
-    "D:\\SG Documents\\IIIT Kottayam\\CSY Club\\repos\\CyberSecurity-Club-Website\\node_modules\\next\\dist\\shared\\lib\\head.js#default": {
+    "C:\\Users\\Admin\\Desktop\\csy-website-gunj\\node_modules\\next\\dist\\shared\\lib\\head.js#default": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "default",
       "chunks": [
@@ -1212,7 +1212,7 @@
       ],
       "async": false
     },
-    "D:\\SG Documents\\IIIT Kottayam\\CSY Club\\repos\\CyberSecurity-Club-Website\\node_modules\\next\\dist\\esm\\shared\\lib\\head.js#default": {
+    "C:\\Users\\Admin\\Desktop\\csy-website-gunj\\node_modules\\next\\dist\\esm\\shared\\lib\\head.js#default": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "default",
       "chunks": [
@@ -1220,7 +1220,7 @@
       ],
       "async": false
     },
-    "D:\\SG Documents\\IIIT Kottayam\\CSY Club\\repos\\CyberSecurity-Club-Website\\node_modules\\next\\dist\\shared\\lib\\head.js#defaultHead": {
+    "C:\\Users\\Admin\\Desktop\\csy-website-gunj\\node_modules\\next\\dist\\shared\\lib\\head.js#defaultHead": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "defaultHead",
       "chunks": [
@@ -1228,7 +1228,7 @@
       ],
       "async": false
     },
-    "D:\\SG Documents\\IIIT Kottayam\\CSY Club\\repos\\CyberSecurity-Club-Website\\node_modules\\next\\dist\\esm\\shared\\lib\\head.js#defaultHead": {
+    "C:\\Users\\Admin\\Desktop\\csy-website-gunj\\node_modules\\next\\dist\\esm\\shared\\lib\\head.js#defaultHead": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "defaultHead",
       "chunks": [
@@ -1236,7 +1236,7 @@
       ],
       "async": false
     },
-    "D:\\SG Documents\\IIIT Kottayam\\CSY Club\\repos\\CyberSecurity-Club-Website\\pages\\events.js": {
+    "C:\\Users\\Admin\\Desktop\\csy-website-gunj\\pages\\events.js": {
       "id": "(app-client)/./pages/events.js",
       "name": "*",
       "chunks": [
@@ -1244,7 +1244,7 @@
       ],
       "async": false
     },
-    "D:\\SG Documents\\IIIT Kottayam\\CSY Club\\repos\\CyberSecurity-Club-Website\\pages\\events.js#": {
+    "C:\\Users\\Admin\\Desktop\\csy-website-gunj\\pages\\events.js#": {
       "id": "(app-client)/./pages/events.js",
       "name": "",
       "chunks": [
@@ -1252,7 +1252,7 @@
       ],
       "async": false
     },
-    "D:\\SG Documents\\IIIT Kottayam\\CSY Club\\repos\\CyberSecurity-Club-Website\\pages\\events.js#default": {
+    "C:\\Users\\Admin\\Desktop\\csy-website-gunj\\pages\\events.js#default": {
       "id": "(app-client)/./pages/events.js",
       "name": "default",
       "chunks": [
@@ -1260,7 +1260,7 @@
       ],
       "async": false
     },
-    "D:\\SG Documents\\IIIT Kottayam\\CSY Club\\repos\\CyberSecurity-Club-Website\\src\\app\\components\\navbar.js": {
+    "C:\\Users\\Admin\\Desktop\\csy-website-gunj\\src\\app\\components\\navbar.js": {
       "id": "(app-client)/./src/app/components/navbar.js",
       "name": "*",
       "chunks": [
@@ -1268,7 +1268,7 @@
       ],
       "async": false
     },
-    "D:\\SG Documents\\IIIT Kottayam\\CSY Club\\repos\\CyberSecurity-Club-Website\\src\\app\\components\\navbar.js#": {
+    "C:\\Users\\Admin\\Desktop\\csy-website-gunj\\src\\app\\components\\navbar.js#": {
       "id": "(app-client)/./src/app/components/navbar.js",
       "name": "",
       "chunks": [
@@ -1276,7 +1276,7 @@
       ],
       "async": false
     },
-    "D:\\SG Documents\\IIIT Kottayam\\CSY Club\\repos\\CyberSecurity-Club-Website\\src\\app\\components\\navbar.js#default": {
+    "C:\\Users\\Admin\\Desktop\\csy-website-gunj\\src\\app\\components\\navbar.js#default": {
       "id": "(app-client)/./src/app/components/navbar.js",
       "name": "default",
       "chunks": [
@@ -1284,14 +1284,14 @@
       ],
       "async": false
     },
-    "D:\\SG Documents\\IIIT Kottayam\\CSY Club\\repos\\CyberSecurity-Club-Website\\src\\app\\globals.css#": {
+    "C:\\Users\\Admin\\Desktop\\csy-website-gunj\\src\\app\\globals.css#": {
       "id": "null",
       "name": "default",
       "chunks": [
         "static/css/app/layout.css"
       ]
     },
-    "D:\\SG Documents\\IIIT Kottayam\\CSY Club\\repos\\CyberSecurity-Club-Website\\node_modules\\next\\font\\google\\target.css?{\"path\":\"src\\\\app\\\\layout.js\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}#": {
+    "C:\\Users\\Admin\\Desktop\\csy-website-gunj\\node_modules\\next\\font\\google\\target.css?{\"path\":\"src\\\\app\\\\layout.js\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}#": {
       "id": "null",
       "name": "default",
       "chunks": [
