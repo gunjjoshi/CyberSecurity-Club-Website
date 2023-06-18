@@ -127,7 +127,11 @@
 /******/ 	(() => {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 /******/ 		__webpack_require__.h = () => ("de8359c26cdc5de4")
+=======
+/******/ 		__webpack_require__.h = () => ("60391697a2d22234")
+>>>>>>> parent of a35dbac (foot in people_thanks gunj)
 =======
 /******/ 		__webpack_require__.h = () => ("60391697a2d22234")
 >>>>>>> parent of a35dbac (foot in people_thanks gunj)

@@ -6,9 +6,13 @@ import MediaComponent from "@/app/components/MediaComponent";
 import TextComponent from "@/app/components/TextComponent";
 import ImageComponent from "@/app/components/ImageComponent";
 <<<<<<< HEAD
+<<<<<<< HEAD
 import { Link } from 'react-router-dom';
 import Navbar from "@/app/components/navbar";
 import Footer from "@/app/components/footer";
+=======
+ 
+>>>>>>> parent of a35dbac (foot in people_thanks gunj)
 =======
  
 >>>>>>> parent of a35dbac (foot in people_thanks gunj)
