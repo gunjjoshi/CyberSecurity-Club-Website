@@ -52,15 +52,18 @@ const ImageComponent = ({
               }}
             >
               <div style={{ margin: "200 0px" }}>
-                <a href="#"> <FontAwesomeIcon icon={faTwitter} style={{ fontSize: "20px" }} className={styles.icon}/>  </a>
+                <FontAwesomeIcon
+                  icon={faTwitter}
+                  style={{ fontSize: "20px" }}
+                />
               </div>
               <div style={{ margin: "0 5px" }}>
                 
-                <a href="#" ><FontAwesomeIcon icon={faGithub} style={{ fontSize: "20px" }}className={styles.icon} /> </a>
+                <FontAwesomeIcon icon={faGithub} style={{ fontSize: "20px" }} />
              
               </div>
               <div style={{ margin: "0 5px" }}>
-                <a href="#"><FontAwesomeIcon icon={faInstagram} style={{ fontSize: "20px" }} className={styles.icon}/> </a>
+                <FontAwesomeIcon icon={faInstagram} style={{ fontSize: "20px" }} />
               </div>
             </div>
 
@@ -87,19 +90,16 @@ const ImageComponent = ({
               }}
             >
               <div style={{ margin: "200 0px" }}>
-                <a href="#">
                 <FontAwesomeIcon
-                className={styles.icon} 
                   icon={faTwitter}
                   style={{ fontSize: "20px" }}
                 />
-                </a>
               </div>
               <div style={{ margin: "0 5px" }}>
-              <a href="#"><FontAwesomeIcon icon={faGithub}  className={styles.icon} style={{ fontSize: "20px" }} /></a>
+                <FontAwesomeIcon icon={faGithub} style={{ fontSize: "20px" }} />
               </div>
               <div style={{ margin: "0 5px" }}>
-              <a href="#"><FontAwesomeIcon icon={faInstagram}  className={styles.icon} style={{ fontSize: "20px" }} /></a>
+                <FontAwesomeIcon icon={faInstagram} style={{ fontSize: "20px" }} />
               </div>
             </div>
           </Col>
@@ -123,18 +123,16 @@ const ImageComponent = ({
               }}
             >
               <div style={{ margin: "200 0px" }}>
-              <a href="#"><FontAwesomeIcon
-                  className={styles.icon}
+                <FontAwesomeIcon
                   icon={faTwitter}
                   style={{ fontSize: "20px" }}
                 />
-                </a>
               </div>
               <div style={{ margin: "0 5px" }}>
-               <a href="#"> <FontAwesomeIcon icon={faGithub} style={{ fontSize: "20px" }} className={styles.icon} /></a>
+                <FontAwesomeIcon icon={faGithub} style={{ fontSize: "20px" }} />
               </div>
               <div style={{ margin: "0 5px" }}>
-              <a  href="#"><FontAwesomeIcon icon={faInstagram} style={{ fontSize: "20px" }} className={styles.icon} /></a>
+                <FontAwesomeIcon icon={faInstagram} style={{ fontSize: "20px" }} />
               </div>
               
             </div>

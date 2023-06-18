@@ -14,7 +14,7 @@ import Footer from "@/app/components/footer";
 const people = () => {
   return (
     // <div>This is people page</div>
-    <div> 
+    <div>
       <Head>
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -49,13 +49,13 @@ const people = () => {
           <div
             className={`${styles.radioGroup} d-flex flex-wrap justify-content-center`}
           >
-            
-            
+
+
           </div>
         </div>
 
         <br />
-       
+
         <br />
         <br />
         <TextComponent title="Patrons" />

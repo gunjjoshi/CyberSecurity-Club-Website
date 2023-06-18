@@ -192,7 +192,11 @@
 /******/ 	
 /******/ 	/* webpack/runtime/getFullHash */
 /******/ 	!function() {
+<<<<<<< HEAD
 /******/ 		__webpack_require__.h = function() { return "77d6a19c2e9899e9"; }
+=======
+/******/ 		__webpack_require__.h = function() { return "3c6025c3bd1beb54"; }
+>>>>>>> parent of a35dbac (foot in people_thanks gunj)
 /******/ 	}();
 /******/ 	
 /******/ 	/* webpack/runtime/global */
