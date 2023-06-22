@@ -1049,6 +1049,20 @@
       ],
       "async": false
     },
+    "D:\\SG Documents\\IIIT Kottayam\\CSY Club\\repos\\CyberSecurity-Club-Website\\src\\app\\globals.css#": {
+      "id": "null",
+      "name": "default",
+      "chunks": [
+        "static/css/app/layout.css"
+      ]
+    },
+    "D:\\SG Documents\\IIIT Kottayam\\CSY Club\\repos\\CyberSecurity-Club-Website\\node_modules\\next\\font\\google\\target.css?{\"path\":\"src\\\\app\\\\layout.js\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}#": {
+      "id": "null",
+      "name": "default",
+      "chunks": [
+        "static/css/app/layout.css"
+      ]
+    },
     "D:\\SG Documents\\IIIT Kottayam\\CSY Club\\repos\\CyberSecurity-Club-Website\\src\\app\\page.module.css#": {
       "id": "null",
       "name": "default",
@@ -1415,20 +1429,6 @@
         "app/page:static/chunks/app/page.js"
       ],
       "async": false
-    },
-    "D:\\SG Documents\\IIIT Kottayam\\CSY Club\\repos\\CyberSecurity-Club-Website\\src\\app\\globals.css#": {
-      "id": "null",
-      "name": "default",
-      "chunks": [
-        "static/css/app/layout.css"
-      ]
-    },
-    "D:\\SG Documents\\IIIT Kottayam\\CSY Club\\repos\\CyberSecurity-Club-Website\\node_modules\\next\\font\\google\\target.css?{\"path\":\"src\\\\app\\\\layout.js\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}#": {
-      "id": "null",
-      "name": "default",
-      "chunks": [
-        "static/css/app/layout.css"
-      ]
     }
   }
 }
